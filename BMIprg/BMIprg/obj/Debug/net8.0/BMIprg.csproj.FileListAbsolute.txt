@@ -1,0 +1,14 @@
+C:\Users\FX516\powerAppsProjects\BMIprg\BMIprg\bin\Debug\net8.0\BMIprg.exe
+C:\Users\FX516\powerAppsProjects\BMIprg\BMIprg\bin\Debug\net8.0\BMIprg.deps.json
+C:\Users\FX516\powerAppsProjects\BMIprg\BMIprg\bin\Debug\net8.0\BMIprg.runtimeconfig.json
+C:\Users\FX516\powerAppsProjects\BMIprg\BMIprg\bin\Debug\net8.0\BMIprg.dll
+C:\Users\FX516\powerAppsProjects\BMIprg\BMIprg\bin\Debug\net8.0\BMIprg.pdb
+C:\Users\FX516\powerAppsProjects\BMIprg\BMIprg\obj\Debug\net8.0\BMIprg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\powerAppsProjects\BMIprg\BMIprg\obj\Debug\net8.0\BMIprg.AssemblyInfoInputs.cache
+C:\Users\FX516\powerAppsProjects\BMIprg\BMIprg\obj\Debug\net8.0\BMIprg.AssemblyInfo.cs
+C:\Users\FX516\powerAppsProjects\BMIprg\BMIprg\obj\Debug\net8.0\BMIprg.csproj.CoreCompileInputs.cache
+C:\Users\FX516\powerAppsProjects\BMIprg\BMIprg\obj\Debug\net8.0\BMIprg.dll
+C:\Users\FX516\powerAppsProjects\BMIprg\BMIprg\obj\Debug\net8.0\refint\BMIprg.dll
+C:\Users\FX516\powerAppsProjects\BMIprg\BMIprg\obj\Debug\net8.0\BMIprg.pdb
+C:\Users\FX516\powerAppsProjects\BMIprg\BMIprg\obj\Debug\net8.0\BMIprg.genruntimeconfig.cache
+C:\Users\FX516\powerAppsProjects\BMIprg\BMIprg\obj\Debug\net8.0\ref\BMIprg.dll
