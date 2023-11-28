@@ -1,0 +1,15 @@
+C:\Users\FX516\powerAppsProjects\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.exe
+C:\Users\FX516\powerAppsProjects\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.deps.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.runtimeconfig.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\powerAppsProjects\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.AssemblyInfo.cs
+C:\Users\FX516\powerAppsProjects\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.sourcelink.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\refint\ConsoleApp4.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.genruntimeconfig.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ref\ConsoleApp4.dll
