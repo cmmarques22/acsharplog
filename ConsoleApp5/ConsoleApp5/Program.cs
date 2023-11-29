@@ -56,36 +56,6 @@ precoCusto = int.Parse(Console.ReadLine());
 //calcular o precovenda
 
 
-switch (produto)
-{
-    case 1:
-        margem = 10f;
-        break;
-    case 2:
-        margem = 7f;
-        break;
-    case 3:
-        margem = 9f;
-        break;
-    case 4:
-        margem = 20f;
-        break;
-    case 5:
-        margem = 15f;
-        break;
-    case 6:
-        margem = 11f;
-        break;
-    case 7:
-        margem = 12f;
-        break;
-    default:
-        margem = -1;
-        
-           
-        break;
-}
-
 
 if ( produto == 1)
 {
