@@ -14,7 +14,7 @@ class Program
         {
             Console.Write("Enter 'H' or 'M': ");
             
-            string input = Console.ReadLine();
+            int int = int.Parse(Console.ReadLine());
             if (input == "H")
             {
                 homem++;
