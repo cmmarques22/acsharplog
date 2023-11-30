@@ -1,0 +1,15 @@
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 - operatorChoice\ConsoleApp7 - operatorChoice\bin\Debug\net8.0\ConsoleApp7 - operatorChoice.exe
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 - operatorChoice\ConsoleApp7 - operatorChoice\bin\Debug\net8.0\ConsoleApp7 - operatorChoice.deps.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 - operatorChoice\ConsoleApp7 - operatorChoice\bin\Debug\net8.0\ConsoleApp7 - operatorChoice.runtimeconfig.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 - operatorChoice\ConsoleApp7 - operatorChoice\bin\Debug\net8.0\ConsoleApp7 - operatorChoice.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 - operatorChoice\ConsoleApp7 - operatorChoice\bin\Debug\net8.0\ConsoleApp7 - operatorChoice.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 - operatorChoice\ConsoleApp7 - operatorChoice\obj\Debug\net8.0\ConsoleApp7 - operatorChoice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 - operatorChoice\ConsoleApp7 - operatorChoice\obj\Debug\net8.0\ConsoleApp7 - operatorChoice.AssemblyInfoInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 - operatorChoice\ConsoleApp7 - operatorChoice\obj\Debug\net8.0\ConsoleApp7 - operatorChoice.AssemblyInfo.cs
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 - operatorChoice\ConsoleApp7 - operatorChoice\obj\Debug\net8.0\ConsoleApp7 - operatorChoice.csproj.CoreCompileInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 - operatorChoice\ConsoleApp7 - operatorChoice\obj\Debug\net8.0\ConsoleApp7 - operatorChoice.sourcelink.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 - operatorChoice\ConsoleApp7 - operatorChoice\obj\Debug\net8.0\ConsoleApp7 - operatorChoice.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 - operatorChoice\ConsoleApp7 - operatorChoice\obj\Debug\net8.0\refint\ConsoleApp7 - operatorChoice.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 - operatorChoice\ConsoleApp7 - operatorChoice\obj\Debug\net8.0\ConsoleApp7 - operatorChoice.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 - operatorChoice\ConsoleApp7 - operatorChoice\obj\Debug\net8.0\ConsoleApp7 - operatorChoice.genruntimeconfig.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 - operatorChoice\ConsoleApp7 - operatorChoice\obj\Debug\net8.0\ref\ConsoleApp7 - operatorChoice.dll

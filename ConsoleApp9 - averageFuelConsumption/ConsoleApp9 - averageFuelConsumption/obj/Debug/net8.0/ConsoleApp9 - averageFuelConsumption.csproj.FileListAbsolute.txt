@@ -1,0 +1,15 @@
+C:\Users\FX516\powerAppsProjects\ConsoleApp9 - averageFuelConsumption\ConsoleApp9 - averageFuelConsumption\bin\Debug\net8.0\ConsoleApp9 - averageFuelConsumption.exe
+C:\Users\FX516\powerAppsProjects\ConsoleApp9 - averageFuelConsumption\ConsoleApp9 - averageFuelConsumption\bin\Debug\net8.0\ConsoleApp9 - averageFuelConsumption.deps.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp9 - averageFuelConsumption\ConsoleApp9 - averageFuelConsumption\bin\Debug\net8.0\ConsoleApp9 - averageFuelConsumption.runtimeconfig.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp9 - averageFuelConsumption\ConsoleApp9 - averageFuelConsumption\bin\Debug\net8.0\ConsoleApp9 - averageFuelConsumption.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp9 - averageFuelConsumption\ConsoleApp9 - averageFuelConsumption\bin\Debug\net8.0\ConsoleApp9 - averageFuelConsumption.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp9 - averageFuelConsumption\ConsoleApp9 - averageFuelConsumption\obj\Debug\net8.0\ConsoleApp9 - averageFuelConsumption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\powerAppsProjects\ConsoleApp9 - averageFuelConsumption\ConsoleApp9 - averageFuelConsumption\obj\Debug\net8.0\ConsoleApp9 - averageFuelConsumption.AssemblyInfoInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp9 - averageFuelConsumption\ConsoleApp9 - averageFuelConsumption\obj\Debug\net8.0\ConsoleApp9 - averageFuelConsumption.AssemblyInfo.cs
+C:\Users\FX516\powerAppsProjects\ConsoleApp9 - averageFuelConsumption\ConsoleApp9 - averageFuelConsumption\obj\Debug\net8.0\ConsoleApp9 - averageFuelConsumption.csproj.CoreCompileInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp9 - averageFuelConsumption\ConsoleApp9 - averageFuelConsumption\obj\Debug\net8.0\ConsoleApp9 - averageFuelConsumption.sourcelink.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp9 - averageFuelConsumption\ConsoleApp9 - averageFuelConsumption\obj\Debug\net8.0\ConsoleApp9 - averageFuelConsumption.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp9 - averageFuelConsumption\ConsoleApp9 - averageFuelConsumption\obj\Debug\net8.0\refint\ConsoleApp9 - averageFuelConsumption.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp9 - averageFuelConsumption\ConsoleApp9 - averageFuelConsumption\obj\Debug\net8.0\ConsoleApp9 - averageFuelConsumption.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp9 - averageFuelConsumption\ConsoleApp9 - averageFuelConsumption\obj\Debug\net8.0\ConsoleApp9 - averageFuelConsumption.genruntimeconfig.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp9 - averageFuelConsumption\ConsoleApp9 - averageFuelConsumption\obj\Debug\net8.0\ref\ConsoleApp9 - averageFuelConsumption.dll
