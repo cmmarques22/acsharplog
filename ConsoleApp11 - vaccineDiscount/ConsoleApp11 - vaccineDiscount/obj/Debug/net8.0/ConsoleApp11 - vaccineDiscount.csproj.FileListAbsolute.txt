@@ -1,0 +1,15 @@
+C:\Users\FX516\powerAppsProjects\ConsoleApp11 - vaccineDiscount\ConsoleApp11 - vaccineDiscount\bin\Debug\net8.0\ConsoleApp11 - vaccineDiscount.exe
+C:\Users\FX516\powerAppsProjects\ConsoleApp11 - vaccineDiscount\ConsoleApp11 - vaccineDiscount\bin\Debug\net8.0\ConsoleApp11 - vaccineDiscount.deps.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp11 - vaccineDiscount\ConsoleApp11 - vaccineDiscount\bin\Debug\net8.0\ConsoleApp11 - vaccineDiscount.runtimeconfig.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp11 - vaccineDiscount\ConsoleApp11 - vaccineDiscount\bin\Debug\net8.0\ConsoleApp11 - vaccineDiscount.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp11 - vaccineDiscount\ConsoleApp11 - vaccineDiscount\bin\Debug\net8.0\ConsoleApp11 - vaccineDiscount.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp11 - vaccineDiscount\ConsoleApp11 - vaccineDiscount\obj\Debug\net8.0\ConsoleApp11 - vaccineDiscount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\powerAppsProjects\ConsoleApp11 - vaccineDiscount\ConsoleApp11 - vaccineDiscount\obj\Debug\net8.0\ConsoleApp11 - vaccineDiscount.AssemblyInfoInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp11 - vaccineDiscount\ConsoleApp11 - vaccineDiscount\obj\Debug\net8.0\ConsoleApp11 - vaccineDiscount.AssemblyInfo.cs
+C:\Users\FX516\powerAppsProjects\ConsoleApp11 - vaccineDiscount\ConsoleApp11 - vaccineDiscount\obj\Debug\net8.0\ConsoleApp11 - vaccineDiscount.csproj.CoreCompileInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp11 - vaccineDiscount\ConsoleApp11 - vaccineDiscount\obj\Debug\net8.0\ConsoleApp11 - vaccineDiscount.sourcelink.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp11 - vaccineDiscount\ConsoleApp11 - vaccineDiscount\obj\Debug\net8.0\ConsoleApp11 - vaccineDiscount.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp11 - vaccineDiscount\ConsoleApp11 - vaccineDiscount\obj\Debug\net8.0\refint\ConsoleApp11 - vaccineDiscount.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp11 - vaccineDiscount\ConsoleApp11 - vaccineDiscount\obj\Debug\net8.0\ConsoleApp11 - vaccineDiscount.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp11 - vaccineDiscount\ConsoleApp11 - vaccineDiscount\obj\Debug\net8.0\ConsoleApp11 - vaccineDiscount.genruntimeconfig.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp11 - vaccineDiscount\ConsoleApp11 - vaccineDiscount\obj\Debug\net8.0\ref\ConsoleApp11 - vaccineDiscount.dll

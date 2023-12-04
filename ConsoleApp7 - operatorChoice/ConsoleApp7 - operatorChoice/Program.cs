@@ -18,12 +18,7 @@ Console.Write("Escolha o segundo numero inteiro: ");
 int input2 = int.Parse(Console.ReadLine());
 
 Console.Write(@" 
-* para multiplicacao
-/ para divisao
-+ para soma
-- para subtracao
-% para resto da divisao
-Escolha a operaçao a realizar: ");
+
 
 string operatorInput = Console.ReadLine();
 

@@ -1,0 +1,15 @@
+C:\Users\FX516\powerAppsProjects\ConsoleApp12 - Menu Selector\ConsoleApp12 - Menu Selector\obj\Debug\net8.0\ConsoleApp12 - Menu Selector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\powerAppsProjects\ConsoleApp12 - Menu Selector\ConsoleApp12 - Menu Selector\obj\Debug\net8.0\ConsoleApp12 - Menu Selector.AssemblyInfoInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp12 - Menu Selector\ConsoleApp12 - Menu Selector\obj\Debug\net8.0\ConsoleApp12 - Menu Selector.AssemblyInfo.cs
+C:\Users\FX516\powerAppsProjects\ConsoleApp12 - Menu Selector\ConsoleApp12 - Menu Selector\obj\Debug\net8.0\ConsoleApp12 - Menu Selector.csproj.CoreCompileInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp12 - Menu Selector\ConsoleApp12 - Menu Selector\obj\Debug\net8.0\ConsoleApp12 - Menu Selector.sourcelink.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp12 - Menu Selector\ConsoleApp12 - Menu Selector\bin\Debug\net8.0\ConsoleApp12 - Menu Selector.exe
+C:\Users\FX516\powerAppsProjects\ConsoleApp12 - Menu Selector\ConsoleApp12 - Menu Selector\bin\Debug\net8.0\ConsoleApp12 - Menu Selector.deps.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp12 - Menu Selector\ConsoleApp12 - Menu Selector\bin\Debug\net8.0\ConsoleApp12 - Menu Selector.runtimeconfig.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp12 - Menu Selector\ConsoleApp12 - Menu Selector\bin\Debug\net8.0\ConsoleApp12 - Menu Selector.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp12 - Menu Selector\ConsoleApp12 - Menu Selector\bin\Debug\net8.0\ConsoleApp12 - Menu Selector.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp12 - Menu Selector\ConsoleApp12 - Menu Selector\obj\Debug\net8.0\ConsoleApp12 - Menu Selector.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp12 - Menu Selector\ConsoleApp12 - Menu Selector\obj\Debug\net8.0\refint\ConsoleApp12 - Menu Selector.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp12 - Menu Selector\ConsoleApp12 - Menu Selector\obj\Debug\net8.0\ConsoleApp12 - Menu Selector.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp12 - Menu Selector\ConsoleApp12 - Menu Selector\obj\Debug\net8.0\ConsoleApp12 - Menu Selector.genruntimeconfig.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp12 - Menu Selector\ConsoleApp12 - Menu Selector\obj\Debug\net8.0\ref\ConsoleApp12 - Menu Selector.dll
