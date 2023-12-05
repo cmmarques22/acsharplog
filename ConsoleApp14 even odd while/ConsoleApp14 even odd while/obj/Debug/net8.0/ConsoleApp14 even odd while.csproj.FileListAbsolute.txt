@@ -1,0 +1,15 @@
+C:\Users\FX516\powerAppsProjects\ConsoleApp14 even odd while\ConsoleApp14 even odd while\obj\Debug\net8.0\ConsoleApp14 even odd while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\powerAppsProjects\ConsoleApp14 even odd while\ConsoleApp14 even odd while\obj\Debug\net8.0\ConsoleApp14 even odd while.AssemblyInfoInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp14 even odd while\ConsoleApp14 even odd while\obj\Debug\net8.0\ConsoleApp14 even odd while.AssemblyInfo.cs
+C:\Users\FX516\powerAppsProjects\ConsoleApp14 even odd while\ConsoleApp14 even odd while\obj\Debug\net8.0\ConsoleApp14 even odd while.csproj.CoreCompileInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp14 even odd while\ConsoleApp14 even odd while\obj\Debug\net8.0\ConsoleApp14 even odd while.sourcelink.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp14 even odd while\ConsoleApp14 even odd while\bin\Debug\net8.0\ConsoleApp14 even odd while.exe
+C:\Users\FX516\powerAppsProjects\ConsoleApp14 even odd while\ConsoleApp14 even odd while\bin\Debug\net8.0\ConsoleApp14 even odd while.deps.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp14 even odd while\ConsoleApp14 even odd while\bin\Debug\net8.0\ConsoleApp14 even odd while.runtimeconfig.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp14 even odd while\ConsoleApp14 even odd while\bin\Debug\net8.0\ConsoleApp14 even odd while.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp14 even odd while\ConsoleApp14 even odd while\bin\Debug\net8.0\ConsoleApp14 even odd while.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp14 even odd while\ConsoleApp14 even odd while\obj\Debug\net8.0\ConsoleApp14 even odd while.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp14 even odd while\ConsoleApp14 even odd while\obj\Debug\net8.0\refint\ConsoleApp14 even odd while.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp14 even odd while\ConsoleApp14 even odd while\obj\Debug\net8.0\ConsoleApp14 even odd while.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp14 even odd while\ConsoleApp14 even odd while\obj\Debug\net8.0\ConsoleApp14 even odd while.genruntimeconfig.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp14 even odd while\ConsoleApp14 even odd while\obj\Debug\net8.0\ref\ConsoleApp14 even odd while.dll

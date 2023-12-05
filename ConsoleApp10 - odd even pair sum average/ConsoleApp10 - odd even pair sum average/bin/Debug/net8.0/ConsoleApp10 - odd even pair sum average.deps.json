@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleApp10 - odd even pair sum average/1.0.0": {
+        "runtime": {
+          "ConsoleApp10 - odd even pair sum average.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp10 - odd even pair sum average/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

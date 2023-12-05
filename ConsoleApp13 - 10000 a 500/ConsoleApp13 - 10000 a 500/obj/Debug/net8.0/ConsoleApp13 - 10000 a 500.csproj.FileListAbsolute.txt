@@ -1,0 +1,15 @@
+C:\Users\FX516\powerAppsProjects\ConsoleApp13 - 10000 a 500\ConsoleApp13 - 10000 a 500\bin\Debug\net8.0\ConsoleApp13 - 10000 a 500.exe
+C:\Users\FX516\powerAppsProjects\ConsoleApp13 - 10000 a 500\ConsoleApp13 - 10000 a 500\bin\Debug\net8.0\ConsoleApp13 - 10000 a 500.deps.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp13 - 10000 a 500\ConsoleApp13 - 10000 a 500\bin\Debug\net8.0\ConsoleApp13 - 10000 a 500.runtimeconfig.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp13 - 10000 a 500\ConsoleApp13 - 10000 a 500\bin\Debug\net8.0\ConsoleApp13 - 10000 a 500.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp13 - 10000 a 500\ConsoleApp13 - 10000 a 500\bin\Debug\net8.0\ConsoleApp13 - 10000 a 500.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp13 - 10000 a 500\ConsoleApp13 - 10000 a 500\obj\Debug\net8.0\ConsoleApp13 - 10000 a 500.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\powerAppsProjects\ConsoleApp13 - 10000 a 500\ConsoleApp13 - 10000 a 500\obj\Debug\net8.0\ConsoleApp13 - 10000 a 500.AssemblyInfoInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp13 - 10000 a 500\ConsoleApp13 - 10000 a 500\obj\Debug\net8.0\ConsoleApp13 - 10000 a 500.AssemblyInfo.cs
+C:\Users\FX516\powerAppsProjects\ConsoleApp13 - 10000 a 500\ConsoleApp13 - 10000 a 500\obj\Debug\net8.0\ConsoleApp13 - 10000 a 500.csproj.CoreCompileInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp13 - 10000 a 500\ConsoleApp13 - 10000 a 500\obj\Debug\net8.0\ConsoleApp13 - 10000 a 500.sourcelink.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp13 - 10000 a 500\ConsoleApp13 - 10000 a 500\obj\Debug\net8.0\ConsoleApp13 - 10000 a 500.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp13 - 10000 a 500\ConsoleApp13 - 10000 a 500\obj\Debug\net8.0\refint\ConsoleApp13 - 10000 a 500.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp13 - 10000 a 500\ConsoleApp13 - 10000 a 500\obj\Debug\net8.0\ConsoleApp13 - 10000 a 500.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp13 - 10000 a 500\ConsoleApp13 - 10000 a 500\obj\Debug\net8.0\ConsoleApp13 - 10000 a 500.genruntimeconfig.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp13 - 10000 a 500\ConsoleApp13 - 10000 a 500\obj\Debug\net8.0\ref\ConsoleApp13 - 10000 a 500.dll

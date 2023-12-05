@@ -1,0 +1,15 @@
+C:\Users\FX516\powerAppsProjects\ConsoleApp10 - odd even pair sum average\ConsoleApp10 - odd even pair sum average\obj\Debug\net8.0\ConsoleApp10 - odd even pair sum average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\powerAppsProjects\ConsoleApp10 - odd even pair sum average\ConsoleApp10 - odd even pair sum average\obj\Debug\net8.0\ConsoleApp10 - odd even pair sum average.AssemblyInfoInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp10 - odd even pair sum average\ConsoleApp10 - odd even pair sum average\obj\Debug\net8.0\ConsoleApp10 - odd even pair sum average.AssemblyInfo.cs
+C:\Users\FX516\powerAppsProjects\ConsoleApp10 - odd even pair sum average\ConsoleApp10 - odd even pair sum average\obj\Debug\net8.0\ConsoleApp10 - odd even pair sum average.csproj.CoreCompileInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp10 - odd even pair sum average\ConsoleApp10 - odd even pair sum average\obj\Debug\net8.0\ConsoleApp10 - odd even pair sum average.sourcelink.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp10 - odd even pair sum average\ConsoleApp10 - odd even pair sum average\bin\Debug\net8.0\ConsoleApp10 - odd even pair sum average.exe
+C:\Users\FX516\powerAppsProjects\ConsoleApp10 - odd even pair sum average\ConsoleApp10 - odd even pair sum average\bin\Debug\net8.0\ConsoleApp10 - odd even pair sum average.deps.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp10 - odd even pair sum average\ConsoleApp10 - odd even pair sum average\bin\Debug\net8.0\ConsoleApp10 - odd even pair sum average.runtimeconfig.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp10 - odd even pair sum average\ConsoleApp10 - odd even pair sum average\bin\Debug\net8.0\ConsoleApp10 - odd even pair sum average.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp10 - odd even pair sum average\ConsoleApp10 - odd even pair sum average\bin\Debug\net8.0\ConsoleApp10 - odd even pair sum average.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp10 - odd even pair sum average\ConsoleApp10 - odd even pair sum average\obj\Debug\net8.0\ConsoleApp10 - odd even pair sum average.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp10 - odd even pair sum average\ConsoleApp10 - odd even pair sum average\obj\Debug\net8.0\refint\ConsoleApp10 - odd even pair sum average.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp10 - odd even pair sum average\ConsoleApp10 - odd even pair sum average\obj\Debug\net8.0\ConsoleApp10 - odd even pair sum average.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp10 - odd even pair sum average\ConsoleApp10 - odd even pair sum average\obj\Debug\net8.0\ConsoleApp10 - odd even pair sum average.genruntimeconfig.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp10 - odd even pair sum average\ConsoleApp10 - odd even pair sum average\obj\Debug\net8.0\ref\ConsoleApp10 - odd even pair sum average.dll

@@ -4,33 +4,105 @@ Console.WriteLine("Programa de descontos para vacinas");
 Console.WriteLine("=====================================");
 
 
+//declaracao de variaveis
 
+double comprimentoCanidieo;
+string generoCanideo;
+float desconto = 0f;
+
+
+//obter input da consola  
 Console.Write("Qual o comprimento do seu cao?: ");
-double comprimentoCao = double.Parse(Console.ReadLine());
-string generoCao = Console.ReadLine();
+comprimentoCanidieo = double.Parse(Console.ReadLine());
+Console.Write("Qual o genero do seu canideo?: ");
+generoCanideo = Console.ReadLine();
 
-if ((comprimentoCao >= 10 || comprimentoCao <15) && generoCao == "F") {
-        Console.WriteLine("tem direito a um desconto de 10%");
-}
-else if ((comprimentoCao >= 15 || comprimentoCao < 20) && generoCao == "M")
+//tabela por generos switch
+switch (generoCanideo)
 {
-    Console.WriteLine("tem direito a um desconto de 9%");
+    case "F":
+    case "f":
+        if (comprimentoCanidieo >= 10 && comprimentoCanidieo < 15)
+        {
+            desconto = 10f;
+        }
+        else if (comprimentoCanidieo >= 15 && comprimentoCanidieo < 20)
+        {
+            desconto = 8f;
+        }
+        else if (comprimentoCanidieo >= 20 && comprimentoCanidieo < 25)
+        { 
+            desconto = 7f; 
+        }
+        else
+        { 
+            desconto = 5f; 
+        }
+        break;
+    case "M":
+    case "m":
+        if (comprimentoCanidieo >= 15 && comprimentoCanidieo < 20)
+        {
+            desconto = 9f;
+        }
+        else if (comprimentoCanidieo >= 20 && comprimentoCanidieo < 25)
+        {
+            desconto = 7f;
+        }
+        else
+        {
+            desconto = 5f;
+        }
+        break;
+    default:
+        Console.WriteLine("O genero nao existe");
+        break;
 }
 
-else if ((comprimentoCao >= 15 || comprimentoCao < 20) && generoCao == "F")
-{
-    Console.WriteLine("tem direito a um desconto de 8%");
+//apresentar taxa de desconto
+Console.WriteLine($" o comprimento do canideo é de {comprimentoCanidieo} e" +
+    $" tem um desconto de {desconto}");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//tabela por generos if else
+/*
+if ((comprimentoCanidieo >= 10 && comprimentoCanidieo < 15) && generoCanideo == "F")
+{ 
+    desconto = 10;
 }
-else if ((comprimentoCao >= 20  || comprimentoCao < 25) && (generoCao == "F" || generoCao == "M"))
+else if ((comprimentoCanidieo >= 15 && comprimentoCanidieo < 20) && generoCanideo == "M")
 {
-    Console.WriteLine("tem direito a um desconto de 8%");
+    desconto = 9;
+}
+else if ((comprimentoCanidieo >= 15 && comprimentoCanidieo < 20) && generoCanideo == "F")
+{
+    desconto = 8;
+}
+else if ((comprimentoCanidieo >= 20  && comprimentoCanidieo < 25) && (generoCanideo == "F" || generoCanideo == "M"))
+{
+    desconto = 7;
 }
 else
 {
-    Console.WriteLine("tem direito a um desconto de 5%");
+    desconto = 5;
 
 }
-
+Console.WriteLine($" o comprimento do canideo é de {comprimentoCanidieo} e tem um desconto de {desconto}");
+*/
 
 
 

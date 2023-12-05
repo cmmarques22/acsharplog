@@ -1,0 +1,15 @@
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 - carCounter\ConsoleApp7 - carCounter\bin\Debug\net8.0\ConsoleApp7 - carCounter.exe
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 - carCounter\ConsoleApp7 - carCounter\bin\Debug\net8.0\ConsoleApp7 - carCounter.deps.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 - carCounter\ConsoleApp7 - carCounter\bin\Debug\net8.0\ConsoleApp7 - carCounter.runtimeconfig.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 - carCounter\ConsoleApp7 - carCounter\bin\Debug\net8.0\ConsoleApp7 - carCounter.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 - carCounter\ConsoleApp7 - carCounter\bin\Debug\net8.0\ConsoleApp7 - carCounter.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 - carCounter\ConsoleApp7 - carCounter\obj\Debug\net8.0\ConsoleApp7 - carCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 - carCounter\ConsoleApp7 - carCounter\obj\Debug\net8.0\ConsoleApp7 - carCounter.AssemblyInfoInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 - carCounter\ConsoleApp7 - carCounter\obj\Debug\net8.0\ConsoleApp7 - carCounter.AssemblyInfo.cs
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 - carCounter\ConsoleApp7 - carCounter\obj\Debug\net8.0\ConsoleApp7 - carCounter.csproj.CoreCompileInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 - carCounter\ConsoleApp7 - carCounter\obj\Debug\net8.0\ConsoleApp7 - carCounter.sourcelink.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 - carCounter\ConsoleApp7 - carCounter\obj\Debug\net8.0\ConsoleApp7 - carCounter.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 - carCounter\ConsoleApp7 - carCounter\obj\Debug\net8.0\refint\ConsoleApp7 - carCounter.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 - carCounter\ConsoleApp7 - carCounter\obj\Debug\net8.0\ConsoleApp7 - carCounter.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 - carCounter\ConsoleApp7 - carCounter\obj\Debug\net8.0\ConsoleApp7 - carCounter.genruntimeconfig.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 - carCounter\ConsoleApp7 - carCounter\obj\Debug\net8.0\ref\ConsoleApp7 - carCounter.dll

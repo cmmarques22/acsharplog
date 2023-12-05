@@ -39,8 +39,6 @@ switch (selecao)
     case "S":
     case "s":
         Console.WriteLine("Foi selecionada a opção Sair. Adeus!");
-        //Console.ReadKey();
-        //Environment.Exit(0);
         break;
     default:
         Console.WriteLine("Opção inválida. Tente novamente.");

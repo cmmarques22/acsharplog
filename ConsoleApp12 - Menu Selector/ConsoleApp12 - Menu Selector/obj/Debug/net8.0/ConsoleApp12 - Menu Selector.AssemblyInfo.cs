@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleApp12 - Menu Selector")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80af17e6b262633b357ae92596b28929522c13c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleApp12 - Menu Selector")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleApp12 - Menu Selector")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

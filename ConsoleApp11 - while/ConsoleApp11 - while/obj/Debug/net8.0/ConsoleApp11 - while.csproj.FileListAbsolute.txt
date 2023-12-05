@@ -1,0 +1,15 @@
+C:\Users\FX516\powerAppsProjects\ConsoleApp11 - while\ConsoleApp11 - while\bin\Debug\net8.0\ConsoleApp11 - while.exe
+C:\Users\FX516\powerAppsProjects\ConsoleApp11 - while\ConsoleApp11 - while\bin\Debug\net8.0\ConsoleApp11 - while.deps.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp11 - while\ConsoleApp11 - while\bin\Debug\net8.0\ConsoleApp11 - while.runtimeconfig.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp11 - while\ConsoleApp11 - while\bin\Debug\net8.0\ConsoleApp11 - while.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp11 - while\ConsoleApp11 - while\bin\Debug\net8.0\ConsoleApp11 - while.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp11 - while\ConsoleApp11 - while\obj\Debug\net8.0\ConsoleApp11 - while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\powerAppsProjects\ConsoleApp11 - while\ConsoleApp11 - while\obj\Debug\net8.0\ConsoleApp11 - while.AssemblyInfoInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp11 - while\ConsoleApp11 - while\obj\Debug\net8.0\ConsoleApp11 - while.AssemblyInfo.cs
+C:\Users\FX516\powerAppsProjects\ConsoleApp11 - while\ConsoleApp11 - while\obj\Debug\net8.0\ConsoleApp11 - while.csproj.CoreCompileInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp11 - while\ConsoleApp11 - while\obj\Debug\net8.0\ConsoleApp11 - while.sourcelink.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp11 - while\ConsoleApp11 - while\obj\Debug\net8.0\ConsoleApp11 - while.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp11 - while\ConsoleApp11 - while\obj\Debug\net8.0\refint\ConsoleApp11 - while.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp11 - while\ConsoleApp11 - while\obj\Debug\net8.0\ConsoleApp11 - while.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp11 - while\ConsoleApp11 - while\obj\Debug\net8.0\ConsoleApp11 - while.genruntimeconfig.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp11 - while\ConsoleApp11 - while\obj\Debug\net8.0\ref\ConsoleApp11 - while.dll

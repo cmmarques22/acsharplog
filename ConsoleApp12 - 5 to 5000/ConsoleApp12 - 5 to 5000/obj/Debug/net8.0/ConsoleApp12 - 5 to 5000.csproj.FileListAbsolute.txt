@@ -1,0 +1,15 @@
+C:\Users\FX516\powerAppsProjects\ConsoleApp12 - 5 to 5000\ConsoleApp12 - 5 to 5000\bin\Debug\net8.0\ConsoleApp12 - 5 to 5000.exe
+C:\Users\FX516\powerAppsProjects\ConsoleApp12 - 5 to 5000\ConsoleApp12 - 5 to 5000\bin\Debug\net8.0\ConsoleApp12 - 5 to 5000.deps.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp12 - 5 to 5000\ConsoleApp12 - 5 to 5000\bin\Debug\net8.0\ConsoleApp12 - 5 to 5000.runtimeconfig.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp12 - 5 to 5000\ConsoleApp12 - 5 to 5000\bin\Debug\net8.0\ConsoleApp12 - 5 to 5000.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp12 - 5 to 5000\ConsoleApp12 - 5 to 5000\bin\Debug\net8.0\ConsoleApp12 - 5 to 5000.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp12 - 5 to 5000\ConsoleApp12 - 5 to 5000\obj\Debug\net8.0\ConsoleApp12 - 5 to 5000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\powerAppsProjects\ConsoleApp12 - 5 to 5000\ConsoleApp12 - 5 to 5000\obj\Debug\net8.0\ConsoleApp12 - 5 to 5000.AssemblyInfoInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp12 - 5 to 5000\ConsoleApp12 - 5 to 5000\obj\Debug\net8.0\ConsoleApp12 - 5 to 5000.AssemblyInfo.cs
+C:\Users\FX516\powerAppsProjects\ConsoleApp12 - 5 to 5000\ConsoleApp12 - 5 to 5000\obj\Debug\net8.0\ConsoleApp12 - 5 to 5000.csproj.CoreCompileInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp12 - 5 to 5000\ConsoleApp12 - 5 to 5000\obj\Debug\net8.0\ConsoleApp12 - 5 to 5000.sourcelink.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp12 - 5 to 5000\ConsoleApp12 - 5 to 5000\obj\Debug\net8.0\ConsoleApp12 - 5 to 5000.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp12 - 5 to 5000\ConsoleApp12 - 5 to 5000\obj\Debug\net8.0\refint\ConsoleApp12 - 5 to 5000.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp12 - 5 to 5000\ConsoleApp12 - 5 to 5000\obj\Debug\net8.0\ConsoleApp12 - 5 to 5000.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp12 - 5 to 5000\ConsoleApp12 - 5 to 5000\obj\Debug\net8.0\ConsoleApp12 - 5 to 5000.genruntimeconfig.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp12 - 5 to 5000\ConsoleApp12 - 5 to 5000\obj\Debug\net8.0\ref\ConsoleApp12 - 5 to 5000.dll
