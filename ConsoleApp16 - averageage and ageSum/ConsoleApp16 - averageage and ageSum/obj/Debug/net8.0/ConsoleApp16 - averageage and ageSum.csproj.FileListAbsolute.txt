@@ -1,0 +1,15 @@
+C:\Users\FX516\powerAppsProjects\ConsoleApp16 - averageage and ageSum\ConsoleApp16 - averageage and ageSum\bin\Debug\net8.0\ConsoleApp16 - averageage and ageSum.exe
+C:\Users\FX516\powerAppsProjects\ConsoleApp16 - averageage and ageSum\ConsoleApp16 - averageage and ageSum\bin\Debug\net8.0\ConsoleApp16 - averageage and ageSum.deps.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp16 - averageage and ageSum\ConsoleApp16 - averageage and ageSum\bin\Debug\net8.0\ConsoleApp16 - averageage and ageSum.runtimeconfig.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp16 - averageage and ageSum\ConsoleApp16 - averageage and ageSum\bin\Debug\net8.0\ConsoleApp16 - averageage and ageSum.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp16 - averageage and ageSum\ConsoleApp16 - averageage and ageSum\bin\Debug\net8.0\ConsoleApp16 - averageage and ageSum.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp16 - averageage and ageSum\ConsoleApp16 - averageage and ageSum\obj\Debug\net8.0\ConsoleApp16 - averageage and ageSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\powerAppsProjects\ConsoleApp16 - averageage and ageSum\ConsoleApp16 - averageage and ageSum\obj\Debug\net8.0\ConsoleApp16 - averageage and ageSum.AssemblyInfoInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp16 - averageage and ageSum\ConsoleApp16 - averageage and ageSum\obj\Debug\net8.0\ConsoleApp16 - averageage and ageSum.AssemblyInfo.cs
+C:\Users\FX516\powerAppsProjects\ConsoleApp16 - averageage and ageSum\ConsoleApp16 - averageage and ageSum\obj\Debug\net8.0\ConsoleApp16 - averageage and ageSum.csproj.CoreCompileInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp16 - averageage and ageSum\ConsoleApp16 - averageage and ageSum\obj\Debug\net8.0\ConsoleApp16 - averageage and ageSum.sourcelink.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp16 - averageage and ageSum\ConsoleApp16 - averageage and ageSum\obj\Debug\net8.0\ConsoleApp16 - averageage and ageSum.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp16 - averageage and ageSum\ConsoleApp16 - averageage and ageSum\obj\Debug\net8.0\refint\ConsoleApp16 - averageage and ageSum.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp16 - averageage and ageSum\ConsoleApp16 - averageage and ageSum\obj\Debug\net8.0\ConsoleApp16 - averageage and ageSum.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp16 - averageage and ageSum\ConsoleApp16 - averageage and ageSum\obj\Debug\net8.0\ConsoleApp16 - averageage and ageSum.genruntimeconfig.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp16 - averageage and ageSum\ConsoleApp16 - averageage and ageSum\obj\Debug\net8.0\ref\ConsoleApp16 - averageage and ageSum.dll

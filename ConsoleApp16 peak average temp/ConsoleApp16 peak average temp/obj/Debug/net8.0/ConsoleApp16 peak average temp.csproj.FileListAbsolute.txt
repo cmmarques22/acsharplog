@@ -1,0 +1,15 @@
+C:\Users\FX516\powerAppsProjects\ConsoleApp16 peak average temp\ConsoleApp16 peak average temp\bin\Debug\net8.0\ConsoleApp16 peak average temp.exe
+C:\Users\FX516\powerAppsProjects\ConsoleApp16 peak average temp\ConsoleApp16 peak average temp\bin\Debug\net8.0\ConsoleApp16 peak average temp.deps.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp16 peak average temp\ConsoleApp16 peak average temp\bin\Debug\net8.0\ConsoleApp16 peak average temp.runtimeconfig.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp16 peak average temp\ConsoleApp16 peak average temp\bin\Debug\net8.0\ConsoleApp16 peak average temp.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp16 peak average temp\ConsoleApp16 peak average temp\bin\Debug\net8.0\ConsoleApp16 peak average temp.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp16 peak average temp\ConsoleApp16 peak average temp\obj\Debug\net8.0\ConsoleApp16 peak average temp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\powerAppsProjects\ConsoleApp16 peak average temp\ConsoleApp16 peak average temp\obj\Debug\net8.0\ConsoleApp16 peak average temp.AssemblyInfoInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp16 peak average temp\ConsoleApp16 peak average temp\obj\Debug\net8.0\ConsoleApp16 peak average temp.AssemblyInfo.cs
+C:\Users\FX516\powerAppsProjects\ConsoleApp16 peak average temp\ConsoleApp16 peak average temp\obj\Debug\net8.0\ConsoleApp16 peak average temp.csproj.CoreCompileInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp16 peak average temp\ConsoleApp16 peak average temp\obj\Debug\net8.0\ConsoleApp16 peak average temp.sourcelink.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp16 peak average temp\ConsoleApp16 peak average temp\obj\Debug\net8.0\ConsoleApp16 peak average temp.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp16 peak average temp\ConsoleApp16 peak average temp\obj\Debug\net8.0\refint\ConsoleApp16 peak average temp.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp16 peak average temp\ConsoleApp16 peak average temp\obj\Debug\net8.0\ConsoleApp16 peak average temp.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp16 peak average temp\ConsoleApp16 peak average temp\obj\Debug\net8.0\ConsoleApp16 peak average temp.genruntimeconfig.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp16 peak average temp\ConsoleApp16 peak average temp\obj\Debug\net8.0\ref\ConsoleApp16 peak average temp.dll

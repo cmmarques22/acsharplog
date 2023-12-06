@@ -1,22 +1,23 @@
 ﻿//declaracao variaveis
-int limiteMinimo;
-int limiteMaximo;
-
+int limiteminimo, limitemaximo, switcher;
 
 // Solicitar e ler o limite minimo
 Console.Write("Digite o limite minimo: ");
-limiteMinimo = int.Parse(Console.ReadLine());
+limiteminimo = int.Parse(Console.ReadLine());
 
 // Solicitar e ler o limite maximo
 Console.Write("Digite o limite maximo: ");
-limiteMaximo = int.Parse(Console.ReadLine());
+limitemaximo = int.Parse(Console.ReadLine());
 
-
-
-
-
-while (limiteMaximo > limiteMinimo )
+if (limiteminimo > limitemaximo)
 {
-    limiteMaximo--;
-   
+    switcher = limiteminimo;
+    limiteminimo = limitemaximo;
+    limitemaximo = switcher;
+}sdfsdf
+
+sdfsdf)(/async)()
+while (limiteminimo <= limitemaximo)
+{
+    Console.WriteLine(limitemaximo--);
 }

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleApp17 MathGrades/1.0.0": {
+        "runtime": {
+          "ConsoleApp17 MathGrades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp17 MathGrades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

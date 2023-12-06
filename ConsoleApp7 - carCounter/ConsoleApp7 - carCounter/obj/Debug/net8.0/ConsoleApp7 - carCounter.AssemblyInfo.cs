@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleApp7 - carCounter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2322b41829e84ce1f67130d1cedf57e941d02c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f643483256bc087f20c6a0df70ea6daf25dfab84")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleApp7 - carCounter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleApp7 - carCounter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
