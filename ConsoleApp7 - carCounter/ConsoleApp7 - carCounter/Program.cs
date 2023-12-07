@@ -29,7 +29,12 @@ bool permitidaEntrada = true;
 while (permitidaEntrada)
 {
     Console.WriteLine("Pode entrar carros? (true/false): ");
-    permitidaEntrada = bool.Parse(Console.ReadLine());
+    permitidaEntrada = bool.Parse(Console.ReadLine()); 
+    string resposta = Console.ReadLine();
+
+    if (resposta == "nao")
+    {
+        permitidaEntrada = false;}
 
     if (permitidaEntrada)
     {

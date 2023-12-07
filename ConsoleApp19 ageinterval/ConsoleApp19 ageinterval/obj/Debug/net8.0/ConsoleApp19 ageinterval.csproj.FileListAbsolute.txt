@@ -1,0 +1,5 @@
+C:\Users\FX516\powerAppsProjects\ConsoleApp19 ageinterval\ConsoleApp19 ageinterval\obj\Debug\net8.0\ConsoleApp19 ageinterval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\powerAppsProjects\ConsoleApp19 ageinterval\ConsoleApp19 ageinterval\obj\Debug\net8.0\ConsoleApp19 ageinterval.AssemblyInfoInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp19 ageinterval\ConsoleApp19 ageinterval\obj\Debug\net8.0\ConsoleApp19 ageinterval.AssemblyInfo.cs
+C:\Users\FX516\powerAppsProjects\ConsoleApp19 ageinterval\ConsoleApp19 ageinterval\obj\Debug\net8.0\ConsoleApp19 ageinterval.csproj.CoreCompileInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp19 ageinterval\ConsoleApp19 ageinterval\obj\Debug\net8.0\ConsoleApp19 ageinterval.sourcelink.json

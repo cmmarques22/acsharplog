@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleApp21 idade 2035/1.0.0": {
+        "runtime": {
+          "ConsoleApp21 idade 2035.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp21 idade 2035/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
