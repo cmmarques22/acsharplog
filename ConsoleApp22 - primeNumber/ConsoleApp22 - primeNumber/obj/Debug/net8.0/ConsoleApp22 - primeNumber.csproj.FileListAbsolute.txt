@@ -1,0 +1,15 @@
+C:\Users\FX516\powerAppsProjects\ConsoleApp22 - primeNumber\ConsoleApp22 - primeNumber\bin\Debug\net8.0\ConsoleApp22 - primeNumber.exe
+C:\Users\FX516\powerAppsProjects\ConsoleApp22 - primeNumber\ConsoleApp22 - primeNumber\bin\Debug\net8.0\ConsoleApp22 - primeNumber.deps.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp22 - primeNumber\ConsoleApp22 - primeNumber\bin\Debug\net8.0\ConsoleApp22 - primeNumber.runtimeconfig.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp22 - primeNumber\ConsoleApp22 - primeNumber\bin\Debug\net8.0\ConsoleApp22 - primeNumber.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp22 - primeNumber\ConsoleApp22 - primeNumber\bin\Debug\net8.0\ConsoleApp22 - primeNumber.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp22 - primeNumber\ConsoleApp22 - primeNumber\obj\Debug\net8.0\ConsoleApp22 - primeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\powerAppsProjects\ConsoleApp22 - primeNumber\ConsoleApp22 - primeNumber\obj\Debug\net8.0\ConsoleApp22 - primeNumber.AssemblyInfoInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp22 - primeNumber\ConsoleApp22 - primeNumber\obj\Debug\net8.0\ConsoleApp22 - primeNumber.AssemblyInfo.cs
+C:\Users\FX516\powerAppsProjects\ConsoleApp22 - primeNumber\ConsoleApp22 - primeNumber\obj\Debug\net8.0\ConsoleApp22 - primeNumber.csproj.CoreCompileInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp22 - primeNumber\ConsoleApp22 - primeNumber\obj\Debug\net8.0\ConsoleApp22 - primeNumber.sourcelink.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp22 - primeNumber\ConsoleApp22 - primeNumber\obj\Debug\net8.0\ConsoleApp22 - primeNumber.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp22 - primeNumber\ConsoleApp22 - primeNumber\obj\Debug\net8.0\refint\ConsoleApp22 - primeNumber.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp22 - primeNumber\ConsoleApp22 - primeNumber\obj\Debug\net8.0\ConsoleApp22 - primeNumber.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp22 - primeNumber\ConsoleApp22 - primeNumber\obj\Debug\net8.0\ConsoleApp22 - primeNumber.genruntimeconfig.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp22 - primeNumber\ConsoleApp22 - primeNumber\obj\Debug\net8.0\ref\ConsoleApp22 - primeNumber.dll
