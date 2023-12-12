@@ -1,0 +1,15 @@
+C:\Users\FX516\powerAppsProjects\ConsoleApp 24 funcoes 101\ConsoleApp 24 funcoes 101\bin\Debug\net8.0\ConsoleApp 24 funcoes 101.exe
+C:\Users\FX516\powerAppsProjects\ConsoleApp 24 funcoes 101\ConsoleApp 24 funcoes 101\bin\Debug\net8.0\ConsoleApp 24 funcoes 101.deps.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp 24 funcoes 101\ConsoleApp 24 funcoes 101\bin\Debug\net8.0\ConsoleApp 24 funcoes 101.runtimeconfig.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp 24 funcoes 101\ConsoleApp 24 funcoes 101\bin\Debug\net8.0\ConsoleApp 24 funcoes 101.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp 24 funcoes 101\ConsoleApp 24 funcoes 101\bin\Debug\net8.0\ConsoleApp 24 funcoes 101.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp 24 funcoes 101\ConsoleApp 24 funcoes 101\obj\Debug\net8.0\ConsoleApp 24 funcoes 101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\powerAppsProjects\ConsoleApp 24 funcoes 101\ConsoleApp 24 funcoes 101\obj\Debug\net8.0\ConsoleApp 24 funcoes 101.AssemblyInfoInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp 24 funcoes 101\ConsoleApp 24 funcoes 101\obj\Debug\net8.0\ConsoleApp 24 funcoes 101.AssemblyInfo.cs
+C:\Users\FX516\powerAppsProjects\ConsoleApp 24 funcoes 101\ConsoleApp 24 funcoes 101\obj\Debug\net8.0\ConsoleApp 24 funcoes 101.csproj.CoreCompileInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp 24 funcoes 101\ConsoleApp 24 funcoes 101\obj\Debug\net8.0\ConsoleApp 24 funcoes 101.sourcelink.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp 24 funcoes 101\ConsoleApp 24 funcoes 101\obj\Debug\net8.0\ConsoleApp 24 funcoes 101.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp 24 funcoes 101\ConsoleApp 24 funcoes 101\obj\Debug\net8.0\refint\ConsoleApp 24 funcoes 101.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp 24 funcoes 101\ConsoleApp 24 funcoes 101\obj\Debug\net8.0\ConsoleApp 24 funcoes 101.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp 24 funcoes 101\ConsoleApp 24 funcoes 101\obj\Debug\net8.0\ConsoleApp 24 funcoes 101.genruntimeconfig.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp 24 funcoes 101\ConsoleApp 24 funcoes 101\obj\Debug\net8.0\ref\ConsoleApp 24 funcoes 101.dll

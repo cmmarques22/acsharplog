@@ -1,0 +1,15 @@
+C:\Users\FX516\powerAppsProjects\ConsoleApp23 for loop1\ConsoleApp23 for loop1\bin\Debug\net8.0\ConsoleApp23 for loop1.exe
+C:\Users\FX516\powerAppsProjects\ConsoleApp23 for loop1\ConsoleApp23 for loop1\bin\Debug\net8.0\ConsoleApp23 for loop1.deps.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp23 for loop1\ConsoleApp23 for loop1\bin\Debug\net8.0\ConsoleApp23 for loop1.runtimeconfig.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp23 for loop1\ConsoleApp23 for loop1\bin\Debug\net8.0\ConsoleApp23 for loop1.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp23 for loop1\ConsoleApp23 for loop1\bin\Debug\net8.0\ConsoleApp23 for loop1.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp23 for loop1\ConsoleApp23 for loop1\obj\Debug\net8.0\ConsoleApp23 for loop1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\powerAppsProjects\ConsoleApp23 for loop1\ConsoleApp23 for loop1\obj\Debug\net8.0\ConsoleApp23 for loop1.AssemblyInfoInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp23 for loop1\ConsoleApp23 for loop1\obj\Debug\net8.0\ConsoleApp23 for loop1.AssemblyInfo.cs
+C:\Users\FX516\powerAppsProjects\ConsoleApp23 for loop1\ConsoleApp23 for loop1\obj\Debug\net8.0\ConsoleApp23 for loop1.csproj.CoreCompileInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp23 for loop1\ConsoleApp23 for loop1\obj\Debug\net8.0\ConsoleApp23 for loop1.sourcelink.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp23 for loop1\ConsoleApp23 for loop1\obj\Debug\net8.0\ConsoleApp23 for loop1.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp23 for loop1\ConsoleApp23 for loop1\obj\Debug\net8.0\refint\ConsoleApp23 for loop1.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp23 for loop1\ConsoleApp23 for loop1\obj\Debug\net8.0\ConsoleApp23 for loop1.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp23 for loop1\ConsoleApp23 for loop1\obj\Debug\net8.0\ConsoleApp23 for loop1.genruntimeconfig.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp23 for loop1\ConsoleApp23 for loop1\obj\Debug\net8.0\ref\ConsoleApp23 for loop1.dll

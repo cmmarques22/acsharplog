@@ -1,57 +1,50 @@
-﻿Console.WriteLine("teste numeros inteiros, filtrar media e primos");
+﻿Console.Write("Enter a number: ");
+int input = int.Parse(Console.ReadLine());
+
+int factorsCount = 0;
+int numeroDivisores = 1;
 
 
-Console.WriteLine("Insira um numero inteiro maior que 1");
-int input = 0;
-if (input < 2)
-{
-    Console.WriteLine("numero invalido, tente outra vez");
-    input = int.Parse(Console.ReadLine());
+int sumOfPrimes = 0;
+int countOfPrimes = 0;
 
-}
 
-int primeSum = 0;
-int primeCounter = 0;
 
+Console.WriteLine("Enter numbers in the range 100 to 200. Type 'exit' to finish.");
 
 while (true)
 {
-    //verificar primo
-    input = int.Parse(Console.ReadLine());
-    
-    if (input % 2 == 0)
-    {
-
-        //verificar intervalo
-        if (input >= 100 && input <= 200)
-        {
-            //contar numeros primos
-            primeCounter++;
+    Console.Write("Enter a number: ");
+    int input = int.Parse(Console.ReadLine());
 
 
-
-            //fazer soma dos numeros no intervalo   
-            primeSum += primeCounter;
-            int primeAverage = primeSum / primeCounter;
-
-        }
-    }
-    Console.WriteLine($"A soma é de {primeSum}");
-    if (primeCounter > 0)
-    {
-        double primeAverage = (double)primeSum / primeCounter;
-        Console.WriteLine($"A média de números primos é de {primeAverage}");
-    }
-    Console.WriteLine($" a soma é de {primeSum} ");
-
-    // Pedir novo input
-    Console.WriteLine("Insira outro número inteiro ou digite '0' para sair");
-    input = int.Parse(Console.ReadLine());
-
-    // Sair do loop se o input for 0
-    if (input == 0)
+    if (input.ToLower() == "exit")
     {
         break;
     }
-}
 
+
+
+
+    while (numeroDivisores <= input)
+    {
+        if (input % numeroDivisores == 0)
+        {
+            factorsCount++;
+        }
+        numeroDivisores++;
+    }
+    if (factorsCount > 2)
+   {
+       Console.WriteLine($"{input} is not prime");
+   }
+
+Console.WriteLine($"Number of factors of {input}: {factorsCount}");
+
+Console.WriteLine($" {Soma(3, 4)}");
+static int Soma(int a, int b)
+{
+    int c;
+    c = a + b;
+    return c;
+}}

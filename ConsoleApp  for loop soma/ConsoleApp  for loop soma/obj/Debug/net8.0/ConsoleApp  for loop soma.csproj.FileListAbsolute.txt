@@ -1,0 +1,15 @@
+C:\Users\FX516\powerAppsProjects\ConsoleApp  for loop soma\ConsoleApp  for loop soma\bin\Debug\net8.0\ConsoleApp  for loop soma.exe
+C:\Users\FX516\powerAppsProjects\ConsoleApp  for loop soma\ConsoleApp  for loop soma\bin\Debug\net8.0\ConsoleApp  for loop soma.deps.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp  for loop soma\ConsoleApp  for loop soma\bin\Debug\net8.0\ConsoleApp  for loop soma.runtimeconfig.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp  for loop soma\ConsoleApp  for loop soma\bin\Debug\net8.0\ConsoleApp  for loop soma.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp  for loop soma\ConsoleApp  for loop soma\bin\Debug\net8.0\ConsoleApp  for loop soma.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp  for loop soma\ConsoleApp  for loop soma\obj\Debug\net8.0\ConsoleApp  for loop soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\powerAppsProjects\ConsoleApp  for loop soma\ConsoleApp  for loop soma\obj\Debug\net8.0\ConsoleApp  for loop soma.AssemblyInfoInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp  for loop soma\ConsoleApp  for loop soma\obj\Debug\net8.0\ConsoleApp  for loop soma.AssemblyInfo.cs
+C:\Users\FX516\powerAppsProjects\ConsoleApp  for loop soma\ConsoleApp  for loop soma\obj\Debug\net8.0\ConsoleApp  for loop soma.csproj.CoreCompileInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp  for loop soma\ConsoleApp  for loop soma\obj\Debug\net8.0\ConsoleApp  for loop soma.sourcelink.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp  for loop soma\ConsoleApp  for loop soma\obj\Debug\net8.0\ConsoleApp  for loop soma.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp  for loop soma\ConsoleApp  for loop soma\obj\Debug\net8.0\refint\ConsoleApp  for loop soma.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp  for loop soma\ConsoleApp  for loop soma\obj\Debug\net8.0\ConsoleApp  for loop soma.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp  for loop soma\ConsoleApp  for loop soma\obj\Debug\net8.0\ConsoleApp  for loop soma.genruntimeconfig.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp  for loop soma\ConsoleApp  for loop soma\obj\Debug\net8.0\ref\ConsoleApp  for loop soma.dll

@@ -17,7 +17,8 @@ int counter = 1;
 string formattedNumbers = "";
 
 // Calculate the sum of numbers from 1 to input
-while (counter <= input)
+
+for (int i = 0; i <= input; i++)
 {
     sum += counter;
 
@@ -26,6 +27,18 @@ while (counter <= input)
     formattedNumbers += " + ";
     counter++;
 }
+
+
+
+//while (counter <= input)
+//{
+//    sum += counter;
+
+//    // Add the current number to the formatted string
+//    formattedNumbers += counter;
+//    formattedNumbers += " + ";
+//    counter++;
+//}
 // Display the result
 Console.WriteLine($"The sum of numbers from 1 to {input} is: {formattedNumbers} = {sum}");
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleApp18 genderCounterbyage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f643483256bc087f20c6a0df70ea6daf25dfab84")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleApp18 genderCounterbyage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleApp18 genderCounterbyage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
