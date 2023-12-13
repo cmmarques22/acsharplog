@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleApp loop get random number/1.0.0": {
+        "runtime": {
+          "ConsoleApp loop get random number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp loop get random number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

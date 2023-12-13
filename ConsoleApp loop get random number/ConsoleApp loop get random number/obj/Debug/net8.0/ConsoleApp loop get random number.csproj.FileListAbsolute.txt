@@ -1,0 +1,15 @@
+C:\Users\FX516\powerAppsProjects\ConsoleApp loop get random number\ConsoleApp loop get random number\obj\Debug\net8.0\ConsoleApp loop get random number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\powerAppsProjects\ConsoleApp loop get random number\ConsoleApp loop get random number\obj\Debug\net8.0\ConsoleApp loop get random number.AssemblyInfoInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp loop get random number\ConsoleApp loop get random number\obj\Debug\net8.0\ConsoleApp loop get random number.AssemblyInfo.cs
+C:\Users\FX516\powerAppsProjects\ConsoleApp loop get random number\ConsoleApp loop get random number\obj\Debug\net8.0\ConsoleApp loop get random number.csproj.CoreCompileInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp loop get random number\ConsoleApp loop get random number\obj\Debug\net8.0\ConsoleApp loop get random number.sourcelink.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp loop get random number\ConsoleApp loop get random number\bin\Debug\net8.0\ConsoleApp loop get random number.exe
+C:\Users\FX516\powerAppsProjects\ConsoleApp loop get random number\ConsoleApp loop get random number\bin\Debug\net8.0\ConsoleApp loop get random number.deps.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp loop get random number\ConsoleApp loop get random number\bin\Debug\net8.0\ConsoleApp loop get random number.runtimeconfig.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp loop get random number\ConsoleApp loop get random number\bin\Debug\net8.0\ConsoleApp loop get random number.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp loop get random number\ConsoleApp loop get random number\bin\Debug\net8.0\ConsoleApp loop get random number.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp loop get random number\ConsoleApp loop get random number\obj\Debug\net8.0\ConsoleApp loop get random number.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp loop get random number\ConsoleApp loop get random number\obj\Debug\net8.0\refint\ConsoleApp loop get random number.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp loop get random number\ConsoleApp loop get random number\obj\Debug\net8.0\ConsoleApp loop get random number.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp loop get random number\ConsoleApp loop get random number\obj\Debug\net8.0\ConsoleApp loop get random number.genruntimeconfig.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp loop get random number\ConsoleApp loop get random number\obj\Debug\net8.0\ref\ConsoleApp loop get random number.dll

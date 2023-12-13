@@ -1,0 +1,15 @@
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 string console\ConsoleApp7 string console\bin\Debug\net8.0\ConsoleApp7 string console.exe
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 string console\ConsoleApp7 string console\bin\Debug\net8.0\ConsoleApp7 string console.deps.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 string console\ConsoleApp7 string console\bin\Debug\net8.0\ConsoleApp7 string console.runtimeconfig.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 string console\ConsoleApp7 string console\bin\Debug\net8.0\ConsoleApp7 string console.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 string console\ConsoleApp7 string console\bin\Debug\net8.0\ConsoleApp7 string console.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 string console\ConsoleApp7 string console\obj\Debug\net8.0\ConsoleApp7 string console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 string console\ConsoleApp7 string console\obj\Debug\net8.0\ConsoleApp7 string console.AssemblyInfoInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 string console\ConsoleApp7 string console\obj\Debug\net8.0\ConsoleApp7 string console.AssemblyInfo.cs
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 string console\ConsoleApp7 string console\obj\Debug\net8.0\ConsoleApp7 string console.csproj.CoreCompileInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 string console\ConsoleApp7 string console\obj\Debug\net8.0\ConsoleApp7 string console.sourcelink.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 string console\ConsoleApp7 string console\obj\Debug\net8.0\ConsoleApp7 string console.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 string console\ConsoleApp7 string console\obj\Debug\net8.0\refint\ConsoleApp7 string console.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 string console\ConsoleApp7 string console\obj\Debug\net8.0\ConsoleApp7 string console.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 string console\ConsoleApp7 string console\obj\Debug\net8.0\ConsoleApp7 string console.genruntimeconfig.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 string console\ConsoleApp7 string console\obj\Debug\net8.0\ref\ConsoleApp7 string console.dll
