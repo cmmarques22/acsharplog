@@ -1,0 +1,15 @@
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 Guess a number game\ConsoleApp7 Guess a number game\bin\Debug\net8.0\ConsoleApp7 Guess a number game.exe
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 Guess a number game\ConsoleApp7 Guess a number game\bin\Debug\net8.0\ConsoleApp7 Guess a number game.deps.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 Guess a number game\ConsoleApp7 Guess a number game\bin\Debug\net8.0\ConsoleApp7 Guess a number game.runtimeconfig.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 Guess a number game\ConsoleApp7 Guess a number game\bin\Debug\net8.0\ConsoleApp7 Guess a number game.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 Guess a number game\ConsoleApp7 Guess a number game\bin\Debug\net8.0\ConsoleApp7 Guess a number game.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 Guess a number game\ConsoleApp7 Guess a number game\obj\Debug\net8.0\ConsoleApp7 Guess a number game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 Guess a number game\ConsoleApp7 Guess a number game\obj\Debug\net8.0\ConsoleApp7 Guess a number game.AssemblyInfoInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 Guess a number game\ConsoleApp7 Guess a number game\obj\Debug\net8.0\ConsoleApp7 Guess a number game.AssemblyInfo.cs
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 Guess a number game\ConsoleApp7 Guess a number game\obj\Debug\net8.0\ConsoleApp7 Guess a number game.csproj.CoreCompileInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 Guess a number game\ConsoleApp7 Guess a number game\obj\Debug\net8.0\ConsoleApp7 Guess a number game.sourcelink.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 Guess a number game\ConsoleApp7 Guess a number game\obj\Debug\net8.0\ConsoleApp7 Guess a number game.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 Guess a number game\ConsoleApp7 Guess a number game\obj\Debug\net8.0\refint\ConsoleApp7 Guess a number game.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 Guess a number game\ConsoleApp7 Guess a number game\obj\Debug\net8.0\ConsoleApp7 Guess a number game.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 Guess a number game\ConsoleApp7 Guess a number game\obj\Debug\net8.0\ConsoleApp7 Guess a number game.genruntimeconfig.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 Guess a number game\ConsoleApp7 Guess a number game\obj\Debug\net8.0\ref\ConsoleApp7 Guess a number game.dll

@@ -1,33 +1,22 @@
-﻿//jogo,
-//pensar num numero ao sistema e sortear entre um limite 50 e 100
-// tres perguntas ao utilizador, maxomo 10 tentativas, num loop 
-//se acertar ganhamos, se nao perdemos x10 tentativas
-
-//se nao acertar. dizer se é superior ou inferior ao palpite
-
-
-//variaveis
-
-int userChoice = 0;
+﻿int userChoice = 0;
 int systemChoice = 0;
 int pointsPlayer1 = 0;
 int pointsPlayer2 = 0;
 int tries = 10;
 bool endGame = false;
 
+
 Console.WriteLine(@"
-Lets play a game. It's you versus your worst enemy! 
-
-
+Let's play a game. It's you versus your worst enemy!
 
 Game rules:
 
 Pick a random number between 1 and 10;
 Your enemy will pick another number
 
-You have 10 tries to guess the your enemy's number.
+You have 10 tries to guess your enemy's number.
 
-If you guess your enemy's number, you get a point. 
+If you guess your enemy's number, you get a point.
 If not, your enemy gets a point.
 
 First to reach 5 points wins.");
@@ -35,30 +24,28 @@ First to reach 5 points wins.");
 
 void LetsPlayAGame()
 {
-    while (!endGame || tries > 0)
+    while (!endGame && tries > 0)
     {
-        PickStage(userChoice, systemChoice);
-
-        AwardStage(userChoice, systemChoice, pointsPlayer1, pointsPlayer2, tries);
-
-        GameReview(pointsPlayer1, pointsPlayer2, endGame, tries);
+        PickStage();
+        AwardStage();
+        GameReview();
     }
 }
 
-static void PickStage(int userChoice, int systemChoice)
+void PickStage()
 {
     Console.WriteLine("It's your turn");
-    Console.WriteLine("Pick a number between 1 a 10");
+    Console.WriteLine("Pick a number between 1 and 10");
     userChoice = int.Parse(Console.ReadLine());
-    Console.WriteLine("you have chosen number " + userChoice);
+    Console.WriteLine("You have chosen number " + userChoice);
 
     Console.WriteLine("Press ENTER so your enemy picks a number");
     Console.ReadLine();
-    systemChoice = GetRandomNumberBetween(1, 1000);
-    Console.WriteLine("the enemy chose number " + systemChoice);
+    systemChoice = GetRandomNumberBetween(1, 10); // Adjusted the upper limit to 100
+    Console.WriteLine("The enemy chose number " + systemChoice);
 }
 
-static void AwardStage(int userChoice, int systemChoice, int pointsPlayer1, int pointsPlayer2, int tries)
+void AwardStage()
 {
     if (userChoice == systemChoice)
     {
@@ -66,7 +53,7 @@ static void AwardStage(int userChoice, int systemChoice, int pointsPlayer1, int 
         tries--;
         Console.Write($@"
 You have guessed the enemy's number!
-You have {pointsPlayer1}  points
+You have {pointsPlayer1} points
 ");
     }
     else
@@ -75,13 +62,13 @@ You have {pointsPlayer1}  points
         tries--;
         Console.Write($@"
 You failed to guess the enemy's number!
-The enemy has {pointsPlayer2}  points
+The enemy has {pointsPlayer2} points
 ");
-        GameHint(userChoice, systemChoice);
+        GameHint();
     }
 }
 
-static void GameHint(int userChoice, int systemChoice)
+void GameHint()
 {
     if (userChoice > systemChoice)
     {
@@ -94,7 +81,7 @@ static void GameHint(int userChoice, int systemChoice)
     }
 }
 
-static void GameReview(int pointsPlayer1, int pointsPlayer2, bool endGame, int tries)
+void GameReview()
 {
     if (pointsPlayer1 == 5)
     {
@@ -108,12 +95,20 @@ static void GameReview(int pointsPlayer1, int pointsPlayer2, bool endGame, int t
         endGame = true;
     }
 
-    if (tries == 8)
+    if (tries == 0)
     {
+        Console.WriteLine("No more tries left. Game over!");
         endGame = true;
     }
 }
 
+
+
+static int GetRandomNumberBetween2(int min, int max)
+{
+    Random rnd = new Random();
+    return rnd.Next(min, max);
+}
 
 static int GetRandomNumberBetween(int min, int max)
 {
@@ -125,11 +120,11 @@ static int GetRandomNumberBetween(int min, int max)
     // return  (GetRandomNumber() % (max - min)) + min;
 }
 
-
 static int GetRandomNumber()
 {
     Random rnd = new Random();
     return rnd.Next();
 }
+
 
 LetsPlayAGame();
