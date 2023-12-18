@@ -1,7 +1,7 @@
 ﻿int userChoice = 0;
-int systemChoice = 0;
-int pointsPlayer1 = 0;
-int pointsPlayer2 = 0;
+int enemyChoice = 0;
+int userPoints = 0;
+int enemyPoints = 0;
 int tries = 10;
 bool endGame = false;
 
@@ -19,7 +19,8 @@ You have 10 tries to guess your enemy's number.
 If you guess your enemy's number, you get a point.
 If not, your enemy gets a point.
 
-First to reach 5 points wins.");
+First to reach 5 points wins, else the game ends 
+after 10 tries");
 
 
 void LetsPlayAGame()
@@ -27,7 +28,7 @@ void LetsPlayAGame()
     while (!endGame && tries > 0)
     {
         PickStage();
-        AwardStage();
+        PointAwardStage();
         GameReview();
     }
 }
@@ -41,28 +42,28 @@ void PickStage()
 
     Console.WriteLine("Press ENTER so your enemy picks a number");
     Console.ReadLine();
-    systemChoice = GetRandomNumberBetween(1, 10); // Adjusted the upper limit to 100
-    Console.WriteLine("The enemy chose number " + systemChoice);
+    enemyChoice = GetRandomNumberBetween(1, 100); // Adjusted the upper limit to 100
+    Console.WriteLine("The enemy chose number " + enemyChoice);
 }
 
-void AwardStage()
+void PointAwardStage()
 {
-    if (userChoice == systemChoice)
+    if (userChoice == enemyChoice)
     {
-        pointsPlayer1++;
+        userPoints++;
         tries--;
         Console.Write($@"
 You have guessed the enemy's number!
-You have {pointsPlayer1} points
+You have {userPoints} points
 ");
     }
     else
     {
-        pointsPlayer2++;
+        enemyPoints++;
         tries--;
         Console.Write($@"
 You failed to guess the enemy's number!
-The enemy has {pointsPlayer2} points
+The enemy has {enemyPoints} points
 ");
         GameHint();
     }
@@ -70,12 +71,12 @@ The enemy has {pointsPlayer2} points
 
 void GameHint()
 {
-    if (userChoice > systemChoice)
+    if (userChoice >= enemyChoice)
     {
         Console.WriteLine("Hint: Your pick was above the enemy's choice");
     }
 
-    if (userChoice < systemChoice)
+    else
     {
         Console.WriteLine("Hint: Your pick was below the enemy's choice");
     }
@@ -83,13 +84,13 @@ void GameHint()
 
 void GameReview()
 {
-    if (pointsPlayer1 == 5)
+    if (userPoints == 5)
     {
         Console.WriteLine("You have won the game!");
         endGame = true;
     }
 
-    if (pointsPlayer2 == 5)
+    if (enemyPoints == 5)
     {
         Console.WriteLine("The enemy won the game!");
         endGame = true;
@@ -98,7 +99,6 @@ void GameReview()
     if (tries == 0)
     {
         Console.WriteLine("No more tries left. Game over!");
-        endGame = true;
     }
 }
 

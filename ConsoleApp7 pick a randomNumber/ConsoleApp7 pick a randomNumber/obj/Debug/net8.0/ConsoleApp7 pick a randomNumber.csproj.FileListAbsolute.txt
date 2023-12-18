@@ -1,0 +1,15 @@
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 pick a randomNumber\ConsoleApp7 pick a randomNumber\bin\Debug\net8.0\ConsoleApp7 pick a randomNumber.exe
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 pick a randomNumber\ConsoleApp7 pick a randomNumber\bin\Debug\net8.0\ConsoleApp7 pick a randomNumber.deps.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 pick a randomNumber\ConsoleApp7 pick a randomNumber\bin\Debug\net8.0\ConsoleApp7 pick a randomNumber.runtimeconfig.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 pick a randomNumber\ConsoleApp7 pick a randomNumber\bin\Debug\net8.0\ConsoleApp7 pick a randomNumber.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 pick a randomNumber\ConsoleApp7 pick a randomNumber\bin\Debug\net8.0\ConsoleApp7 pick a randomNumber.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 pick a randomNumber\ConsoleApp7 pick a randomNumber\obj\Debug\net8.0\ConsoleApp7 pick a randomNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 pick a randomNumber\ConsoleApp7 pick a randomNumber\obj\Debug\net8.0\ConsoleApp7 pick a randomNumber.AssemblyInfoInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 pick a randomNumber\ConsoleApp7 pick a randomNumber\obj\Debug\net8.0\ConsoleApp7 pick a randomNumber.AssemblyInfo.cs
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 pick a randomNumber\ConsoleApp7 pick a randomNumber\obj\Debug\net8.0\ConsoleApp7 pick a randomNumber.csproj.CoreCompileInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 pick a randomNumber\ConsoleApp7 pick a randomNumber\obj\Debug\net8.0\ConsoleApp7 pick a randomNumber.sourcelink.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 pick a randomNumber\ConsoleApp7 pick a randomNumber\obj\Debug\net8.0\ConsoleApp7 pick a randomNumber.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 pick a randomNumber\ConsoleApp7 pick a randomNumber\obj\Debug\net8.0\refint\ConsoleApp7 pick a randomNumber.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 pick a randomNumber\ConsoleApp7 pick a randomNumber\obj\Debug\net8.0\ConsoleApp7 pick a randomNumber.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 pick a randomNumber\ConsoleApp7 pick a randomNumber\obj\Debug\net8.0\ConsoleApp7 pick a randomNumber.genruntimeconfig.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp7 pick a randomNumber\ConsoleApp7 pick a randomNumber\obj\Debug\net8.0\ref\ConsoleApp7 pick a randomNumber.dll

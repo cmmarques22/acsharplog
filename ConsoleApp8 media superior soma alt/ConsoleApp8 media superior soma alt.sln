@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp8 media superior soma alt", "ConsoleApp8 media superior soma alt\ConsoleApp8 media superior soma alt.csproj", "{ABEDA4F6-473B-4A7A-9171-A64EC9C01EA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABEDA4F6-473B-4A7A-9171-A64EC9C01EA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABEDA4F6-473B-4A7A-9171-A64EC9C01EA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABEDA4F6-473B-4A7A-9171-A64EC9C01EA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABEDA4F6-473B-4A7A-9171-A64EC9C01EA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
