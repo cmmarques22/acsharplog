@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleApp7 pick a randomNumber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ebcfabffc6dd6b9f5b74bdda400b53b084f9c2f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleApp7 pick a randomNumber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleApp7 pick a randomNumber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

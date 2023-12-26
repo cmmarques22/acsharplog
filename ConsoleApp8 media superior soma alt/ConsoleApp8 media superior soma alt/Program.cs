@@ -38,15 +38,16 @@ static List<int> SuperioresMedia(List<int> numeros)
 
     // calcula a média
     media = Media(numeros);
+    float media2 = Media(numeros);
 
     // cria a lista com os números superiores à media
     for (int i = 0; i < numeros.Count; i++)
         if (numeros[i] > media)
             superioresMedia.Add(numeros[i]);
-
     // devolve a lista com os superiores à media
     return superioresMedia;
 }
+
 
 static float Media(List<int> numeros)
 {

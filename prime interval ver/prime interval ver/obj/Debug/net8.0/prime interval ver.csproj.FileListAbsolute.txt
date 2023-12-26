@@ -1,0 +1,15 @@
+C:\Users\FX516\powerAppsProjects\prime interval ver\prime interval ver\bin\Debug\net8.0\prime interval ver.exe
+C:\Users\FX516\powerAppsProjects\prime interval ver\prime interval ver\bin\Debug\net8.0\prime interval ver.deps.json
+C:\Users\FX516\powerAppsProjects\prime interval ver\prime interval ver\bin\Debug\net8.0\prime interval ver.runtimeconfig.json
+C:\Users\FX516\powerAppsProjects\prime interval ver\prime interval ver\bin\Debug\net8.0\prime interval ver.dll
+C:\Users\FX516\powerAppsProjects\prime interval ver\prime interval ver\bin\Debug\net8.0\prime interval ver.pdb
+C:\Users\FX516\powerAppsProjects\prime interval ver\prime interval ver\obj\Debug\net8.0\prime interval ver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\powerAppsProjects\prime interval ver\prime interval ver\obj\Debug\net8.0\prime interval ver.AssemblyInfoInputs.cache
+C:\Users\FX516\powerAppsProjects\prime interval ver\prime interval ver\obj\Debug\net8.0\prime interval ver.AssemblyInfo.cs
+C:\Users\FX516\powerAppsProjects\prime interval ver\prime interval ver\obj\Debug\net8.0\prime interval ver.csproj.CoreCompileInputs.cache
+C:\Users\FX516\powerAppsProjects\prime interval ver\prime interval ver\obj\Debug\net8.0\prime interval ver.sourcelink.json
+C:\Users\FX516\powerAppsProjects\prime interval ver\prime interval ver\obj\Debug\net8.0\prime interval ver.dll
+C:\Users\FX516\powerAppsProjects\prime interval ver\prime interval ver\obj\Debug\net8.0\refint\prime interval ver.dll
+C:\Users\FX516\powerAppsProjects\prime interval ver\prime interval ver\obj\Debug\net8.0\prime interval ver.pdb
+C:\Users\FX516\powerAppsProjects\prime interval ver\prime interval ver\obj\Debug\net8.0\prime interval ver.genruntimeconfig.cache
+C:\Users\FX516\powerAppsProjects\prime interval ver\prime interval ver\obj\Debug\net8.0\ref\prime interval ver.dll

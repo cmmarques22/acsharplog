@@ -22,10 +22,6 @@ while (true)
     {
         break;
     }
-
-
-
-
     while (numeroDivisores <= input)
     {
         if (input % numeroDivisores == 0)

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleApp22 - primeNumber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd9be79b843be6ef2c2b7583f2c9d8e1307d2ab6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+607390456079f60067343375d4ac051d3eeee6ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleApp22 - primeNumber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleApp22 - primeNumber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

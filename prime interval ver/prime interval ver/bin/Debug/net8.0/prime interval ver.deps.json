@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "prime interval ver/1.0.0": {
+        "runtime": {
+          "prime interval ver.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "prime interval ver/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

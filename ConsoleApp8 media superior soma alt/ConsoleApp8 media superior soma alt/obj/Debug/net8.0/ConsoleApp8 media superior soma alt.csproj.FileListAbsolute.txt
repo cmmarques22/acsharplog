@@ -1,0 +1,15 @@
+C:\Users\FX516\powerAppsProjects\ConsoleApp8 media superior soma alt\ConsoleApp8 media superior soma alt\bin\Debug\net8.0\ConsoleApp8 media superior soma alt.exe
+C:\Users\FX516\powerAppsProjects\ConsoleApp8 media superior soma alt\ConsoleApp8 media superior soma alt\bin\Debug\net8.0\ConsoleApp8 media superior soma alt.deps.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp8 media superior soma alt\ConsoleApp8 media superior soma alt\bin\Debug\net8.0\ConsoleApp8 media superior soma alt.runtimeconfig.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp8 media superior soma alt\ConsoleApp8 media superior soma alt\bin\Debug\net8.0\ConsoleApp8 media superior soma alt.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp8 media superior soma alt\ConsoleApp8 media superior soma alt\bin\Debug\net8.0\ConsoleApp8 media superior soma alt.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp8 media superior soma alt\ConsoleApp8 media superior soma alt\obj\Debug\net8.0\ConsoleApp8 media superior soma alt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\powerAppsProjects\ConsoleApp8 media superior soma alt\ConsoleApp8 media superior soma alt\obj\Debug\net8.0\ConsoleApp8 media superior soma alt.AssemblyInfoInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp8 media superior soma alt\ConsoleApp8 media superior soma alt\obj\Debug\net8.0\ConsoleApp8 media superior soma alt.AssemblyInfo.cs
+C:\Users\FX516\powerAppsProjects\ConsoleApp8 media superior soma alt\ConsoleApp8 media superior soma alt\obj\Debug\net8.0\ConsoleApp8 media superior soma alt.csproj.CoreCompileInputs.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp8 media superior soma alt\ConsoleApp8 media superior soma alt\obj\Debug\net8.0\ConsoleApp8 media superior soma alt.sourcelink.json
+C:\Users\FX516\powerAppsProjects\ConsoleApp8 media superior soma alt\ConsoleApp8 media superior soma alt\obj\Debug\net8.0\ConsoleApp8 media superior soma alt.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp8 media superior soma alt\ConsoleApp8 media superior soma alt\obj\Debug\net8.0\refint\ConsoleApp8 media superior soma alt.dll
+C:\Users\FX516\powerAppsProjects\ConsoleApp8 media superior soma alt\ConsoleApp8 media superior soma alt\obj\Debug\net8.0\ConsoleApp8 media superior soma alt.pdb
+C:\Users\FX516\powerAppsProjects\ConsoleApp8 media superior soma alt\ConsoleApp8 media superior soma alt\obj\Debug\net8.0\ConsoleApp8 media superior soma alt.genruntimeconfig.cache
+C:\Users\FX516\powerAppsProjects\ConsoleApp8 media superior soma alt\ConsoleApp8 media superior soma alt\obj\Debug\net8.0\ref\ConsoleApp8 media superior soma alt.dll

@@ -38,7 +38,8 @@ while (true)
         
         } 
     }
+    double primeAverage = primeSum/primeCounter ;
+    Console.WriteLine(" a ssoma é de {primeSum} " + "a media de numeros primos é de {primeAverage}");
 }
-double primeAverage = primeSum/primeCounter ;
-Console.WriteLine(" a soma é de {primeSum} " + "a media de numeros primos é de {primeAverage}");
+
 

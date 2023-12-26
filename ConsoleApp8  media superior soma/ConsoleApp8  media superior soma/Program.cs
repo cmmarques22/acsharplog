@@ -3,6 +3,8 @@
 List<int> numeros = RecolherNumeros();
 
 List<int> superioresAMedia = SuperioresMedia(numeros);
+
+
 Console.WriteLine("Numeros superiores ou iguais a media: ");
 for (int i = 0; i < superioresAMedia.Count; i++)
 {
