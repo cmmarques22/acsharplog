@@ -1,0 +1,15 @@
+C:\Users\FX516\powerAppsProjects\exerciciosficha\exerciciosficha\obj\Debug\net8.0\exerciciosficha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\powerAppsProjects\exerciciosficha\exerciciosficha\obj\Debug\net8.0\exerciciosficha.AssemblyInfoInputs.cache
+C:\Users\FX516\powerAppsProjects\exerciciosficha\exerciciosficha\obj\Debug\net8.0\exerciciosficha.AssemblyInfo.cs
+C:\Users\FX516\powerAppsProjects\exerciciosficha\exerciciosficha\obj\Debug\net8.0\exerciciosficha.csproj.CoreCompileInputs.cache
+C:\Users\FX516\powerAppsProjects\exerciciosficha\exerciciosficha\obj\Debug\net8.0\exerciciosficha.sourcelink.json
+C:\Users\FX516\powerAppsProjects\exerciciosficha\exerciciosficha\bin\Debug\net8.0\exerciciosficha.exe
+C:\Users\FX516\powerAppsProjects\exerciciosficha\exerciciosficha\bin\Debug\net8.0\exerciciosficha.deps.json
+C:\Users\FX516\powerAppsProjects\exerciciosficha\exerciciosficha\bin\Debug\net8.0\exerciciosficha.runtimeconfig.json
+C:\Users\FX516\powerAppsProjects\exerciciosficha\exerciciosficha\bin\Debug\net8.0\exerciciosficha.dll
+C:\Users\FX516\powerAppsProjects\exerciciosficha\exerciciosficha\bin\Debug\net8.0\exerciciosficha.pdb
+C:\Users\FX516\powerAppsProjects\exerciciosficha\exerciciosficha\obj\Debug\net8.0\exerciciosficha.dll
+C:\Users\FX516\powerAppsProjects\exerciciosficha\exerciciosficha\obj\Debug\net8.0\refint\exerciciosficha.dll
+C:\Users\FX516\powerAppsProjects\exerciciosficha\exerciciosficha\obj\Debug\net8.0\exerciciosficha.pdb
+C:\Users\FX516\powerAppsProjects\exerciciosficha\exerciciosficha\obj\Debug\net8.0\exerciciosficha.genruntimeconfig.cache
+C:\Users\FX516\powerAppsProjects\exerciciosficha\exerciciosficha\obj\Debug\net8.0\ref\exerciciosficha.dll

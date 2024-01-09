@@ -1,0 +1,15 @@
+C:\Users\FX516\powerAppsProjects\firstdigitslist\firstdigitslist\bin\Debug\net8.0\firstdigitslist.exe
+C:\Users\FX516\powerAppsProjects\firstdigitslist\firstdigitslist\bin\Debug\net8.0\firstdigitslist.deps.json
+C:\Users\FX516\powerAppsProjects\firstdigitslist\firstdigitslist\bin\Debug\net8.0\firstdigitslist.runtimeconfig.json
+C:\Users\FX516\powerAppsProjects\firstdigitslist\firstdigitslist\bin\Debug\net8.0\firstdigitslist.dll
+C:\Users\FX516\powerAppsProjects\firstdigitslist\firstdigitslist\bin\Debug\net8.0\firstdigitslist.pdb
+C:\Users\FX516\powerAppsProjects\firstdigitslist\firstdigitslist\obj\Debug\net8.0\firstdigitslist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\powerAppsProjects\firstdigitslist\firstdigitslist\obj\Debug\net8.0\firstdigitslist.AssemblyInfoInputs.cache
+C:\Users\FX516\powerAppsProjects\firstdigitslist\firstdigitslist\obj\Debug\net8.0\firstdigitslist.AssemblyInfo.cs
+C:\Users\FX516\powerAppsProjects\firstdigitslist\firstdigitslist\obj\Debug\net8.0\firstdigitslist.csproj.CoreCompileInputs.cache
+C:\Users\FX516\powerAppsProjects\firstdigitslist\firstdigitslist\obj\Debug\net8.0\firstdigitslist.sourcelink.json
+C:\Users\FX516\powerAppsProjects\firstdigitslist\firstdigitslist\obj\Debug\net8.0\firstdigitslist.dll
+C:\Users\FX516\powerAppsProjects\firstdigitslist\firstdigitslist\obj\Debug\net8.0\refint\firstdigitslist.dll
+C:\Users\FX516\powerAppsProjects\firstdigitslist\firstdigitslist\obj\Debug\net8.0\firstdigitslist.pdb
+C:\Users\FX516\powerAppsProjects\firstdigitslist\firstdigitslist\obj\Debug\net8.0\firstdigitslist.genruntimeconfig.cache
+C:\Users\FX516\powerAppsProjects\firstdigitslist\firstdigitslist\obj\Debug\net8.0\ref\firstdigitslist.dll

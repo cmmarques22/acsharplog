@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Desenvolva uma pequena aplicação que permita" +
+﻿using System.Collections.Generic;
+
+Console.WriteLine("Desenvolva uma pequena aplicação que permita" +
                   " controlar quais os alunos presentes numa escola," +
                   " tendo por base o registo da sua entrada no edifício." +
                   " Sempre que um aluno entra na escola, o seu número deve" +
@@ -15,10 +17,10 @@
 //variaveis
 
 List<string> listaAlunos = new List<string>();
-UserInterface();
+UserInterface(listaAlunos);
 
 
-void UserInterface()
+ void UserInterface(List<string> lista)
 {
     Console.WriteLine(@"Selecione uma das seguitne s opçoes:
 1 – entrada de um aluno
@@ -30,13 +32,13 @@ void UserInterface()
     switch (userChoice)
     {
         case "1":
-            EntradaAluno();
+            EntradaAluno(lista);
             break;
         case "2":
-            SaidaAluno();
+            SaidaAluno(lista);
             break;
         case "3":
-            VerificaPresenca();
+            VerificaPresenca(lista);
             break;
         case "0":
             Environment.Exit(0);
@@ -48,7 +50,7 @@ void UserInterface()
 }
 
 
-void VerificaPresenca()
+void VerificaPresenca(List<string> listaPresencas)
 {
     Console.WriteLine("Digite o nome do aluno para verificar presença:");
     string aluno = Console.ReadLine();
@@ -57,11 +59,11 @@ void VerificaPresenca()
 
     bool alunoPresente = false;
 
-    for (int i = 0; i < listaAlunos.Count; i++)
+    for (int i = 0; i < listaPresencas.Count; i++)
     {
-        Console.WriteLine(listaAlunos[i]);
+        Console.WriteLine("verificando a presenca do aluno " +  listaPresencas[i]);
 
-        if (listaAlunos[i] == aluno)
+        if (listaPresencas[i] == aluno)
         {
             alunoPresente = true;
         }
@@ -76,11 +78,11 @@ void VerificaPresenca()
         Console.WriteLine($"{aluno} não está presente na escola.");
     }
 
-    UserInterface();
+    UserInterface(listaPresencas);
 }
 
 
-void EntradaAluno()
+void EntradaAluno(List<string> listaEntradas)
 {
     Console.WriteLine("Digite os nomes dos alunos que entraram na escola(digite 'fim' para encerrar):");
 
@@ -88,15 +90,14 @@ void EntradaAluno()
 
     while (aluno != "fim")
     {
-        listaAlunos.Add(aluno);
+        listaEntradas.Add(aluno);
         aluno = Console.ReadLine();
     }
-    UserInterface();
+    UserInterface(listaEntradas);
 }
 
 
-void SaidaAluno()
-
+void SaidaAluno(List<string> listaSaida)
 
 //lista nova devido ao problema de for loop out of bounds e ou iterar incorretamente
 //quando removemos algo de uma lista em runtime, a lista ficara mais pequena ( nao acontece em array), e o indice do elementos restantes
@@ -104,7 +105,6 @@ void SaidaAluno()
 // lista [1, 2, 3, 4, 5]. Quando i é 1 e removemos o elemento 2, a lista  torna se [1, 3, 4, 5].
 // Agora, a próxima iteração com i como 2 irá ignorar o elemento 3 que agora está no índice 1
 // no fim da lista tb pode ocorrer IndexOutOfRangeException, ai podes fazer try catch desta excepçao tb
-
 
 
 {
@@ -116,11 +116,11 @@ void SaidaAluno()
     {
         List<string> listaNova = new List<string>();
 
-        for (int i = 0; i < listaAlunos.Count; i++)
+        for (int i = 0; i < listaSaida.Count; i++)
         {
-            if (listaAlunos[i] != aluno)
+            if (listaSaida[i] != aluno)
             {
-                listaNova.Add(listaAlunos[i]);
+                listaNova.Add(listaSaida[i]);
             }
             else
             {
@@ -128,11 +128,11 @@ void SaidaAluno()
             }
         }
 
-        listaAlunos = listaNova;
+        listaSaida = listaNova;
         aluno = Console.ReadLine();
     }
 
-    UserInterface();
+    UserInterface(listaSaida);
 }
 
 

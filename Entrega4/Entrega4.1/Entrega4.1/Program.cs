@@ -1,44 +1,74 @@
-﻿Console.WriteLine(@"Desenvolva uma aplicação que permita 
-descobrir quantos formandos com o mesmo primeiro nome 
-existem numa escola. Guarde numa lista todos os primeiros 
-nomes dos alunos. Posteriormente, imprima na consola a 
-quantidade de repetições existente por cada nome.");
+﻿using System;
+using System.Collections.Generic;
 
 //variaveis
 //criar lista para iterar
-List<string> nomes = new List<string>();
+List<string> nomes = RecolheCoisas();
 
+int nomesRepetidos = ContaRepetidos(nomes);
 
-Console.WriteLine("escreva os nomes dos alunos 'fim' para sair do loop):");
+Console.WriteLine($"Existem {nomesRepetidos} repetidos");
 
-//pedir input ao utilizador
-string input = Console.ReadLine();
-
-while (input != "fim")
+static List<string> RecolheCoisas()
 {
-    nomes.Add(input);
-    //continuar a pedir input ao utilizador
-    input = Console.ReadLine();
+    Console.WriteLine("Escreva os nomes dos alunos ('fim' para sair do loop):");
+    //pedir input ao utilizador
+    List<string> coisas = new List<string>();
+    while (true)
+    {
+        //continuar a pedir input ao utilizador
+        string input = Console.ReadLine();
+        
+        if (input.ToLower() == "fim")
+            break;
+
+        coisas.Add(input);
+    }
+
+    return coisas;
 }
 
-//iterar sobre a lista
-for (int i = 0; i < nomes.Count; i++)
+
+static int ContaRepetidos(List<string> coisas)
 {
-    if (nomes[i] != null)
+    int totalContagem = 0;
+
+    // Iterar sobre a lista
+    for (int i = 0; i < coisas.Count; i++)
     {
-        //uma repeticao do nome
-        int contagem = 1;
-        // nested loop para iterar sobre o elemento a seguir na lista. sem isso vamos comparar sempre o msm elemento consigo proprio.
-        //comparar o 1 com o 2, 2 com o 3 elemento. sem +1 seria compara consigo proprio e tudo seria repetido
-        for (int j = i + 1; j < nomes.Count; j++)
+        // Verificar se a string não foi contada
+        if (coisas[i] != null)
         {
-            if (nomes[i] == nomes[j])
+            // Uma repetição do nome
+            int contagem = 1;
+
+            // Nested loop para iterar sobre o elemento a seguir na lista.
+            for (int j = i + 1; j < coisas.Count; j++)
             {
-                contagem++;
-                nomes[j] = null;
+                // Verificar se o elemento não foi contado e não é null
+                if (coisas[j] != null && coisas[i] == coisas[j])
+                {
+                    // Marcar o elemento como contado
+                    contagem++;
+                }
+            }
+
+            // Se houver repetição, incrementar a contagem total
+            if (contagem > 1)
+            {
+                totalContagem += contagem;
+
+                // Marcar o elemento atual como contado
+                coisas[i] = null;
             }
         }
-        // Imprimir a contagem
-        Console.WriteLine($"Nome: {nomes[i]}, Repetições: {contagem}");
     }
+
+    return totalContagem;
 }
+
+
+//variaveis
+List<string> nomes = new List<string>() {"manel", "maria", "antonio", "fernando"};
+
+//recolher nomes

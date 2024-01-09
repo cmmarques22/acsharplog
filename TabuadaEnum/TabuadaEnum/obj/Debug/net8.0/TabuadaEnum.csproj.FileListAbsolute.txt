@@ -1,0 +1,5 @@
+C:\Users\FX516\powerAppsProjects\TabuadaEnum\TabuadaEnum\obj\Debug\net8.0\TabuadaEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\powerAppsProjects\TabuadaEnum\TabuadaEnum\obj\Debug\net8.0\TabuadaEnum.AssemblyInfoInputs.cache
+C:\Users\FX516\powerAppsProjects\TabuadaEnum\TabuadaEnum\obj\Debug\net8.0\TabuadaEnum.AssemblyInfo.cs
+C:\Users\FX516\powerAppsProjects\TabuadaEnum\TabuadaEnum\obj\Debug\net8.0\TabuadaEnum.csproj.CoreCompileInputs.cache
+C:\Users\FX516\powerAppsProjects\TabuadaEnum\TabuadaEnum\obj\Debug\net8.0\TabuadaEnum.sourcelink.json
