@@ -1,0 +1,15 @@
+C:\Users\FX516\powerAppsProjects\fichaprep2\fichaprep2\bin\Debug\net8.0\fichaprep2.exe
+C:\Users\FX516\powerAppsProjects\fichaprep2\fichaprep2\bin\Debug\net8.0\fichaprep2.deps.json
+C:\Users\FX516\powerAppsProjects\fichaprep2\fichaprep2\bin\Debug\net8.0\fichaprep2.runtimeconfig.json
+C:\Users\FX516\powerAppsProjects\fichaprep2\fichaprep2\bin\Debug\net8.0\fichaprep2.dll
+C:\Users\FX516\powerAppsProjects\fichaprep2\fichaprep2\bin\Debug\net8.0\fichaprep2.pdb
+C:\Users\FX516\powerAppsProjects\fichaprep2\fichaprep2\obj\Debug\net8.0\fichaprep2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\powerAppsProjects\fichaprep2\fichaprep2\obj\Debug\net8.0\fichaprep2.AssemblyInfoInputs.cache
+C:\Users\FX516\powerAppsProjects\fichaprep2\fichaprep2\obj\Debug\net8.0\fichaprep2.AssemblyInfo.cs
+C:\Users\FX516\powerAppsProjects\fichaprep2\fichaprep2\obj\Debug\net8.0\fichaprep2.csproj.CoreCompileInputs.cache
+C:\Users\FX516\powerAppsProjects\fichaprep2\fichaprep2\obj\Debug\net8.0\fichaprep2.sourcelink.json
+C:\Users\FX516\powerAppsProjects\fichaprep2\fichaprep2\obj\Debug\net8.0\fichaprep2.dll
+C:\Users\FX516\powerAppsProjects\fichaprep2\fichaprep2\obj\Debug\net8.0\refint\fichaprep2.dll
+C:\Users\FX516\powerAppsProjects\fichaprep2\fichaprep2\obj\Debug\net8.0\fichaprep2.pdb
+C:\Users\FX516\powerAppsProjects\fichaprep2\fichaprep2\obj\Debug\net8.0\fichaprep2.genruntimeconfig.cache
+C:\Users\FX516\powerAppsProjects\fichaprep2\fichaprep2\obj\Debug\net8.0\ref\fichaprep2.dll

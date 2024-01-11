@@ -1,4 +1,6 @@
 ﻿
+using exerciciosficha;
+
 Console.WriteLine("1)\r\nDesenvolva uma aplicação que receba um número indefinido de" +
                   " salários. Apresente na consola as seguintes informações:" +
                   "\r\na)\r\nQuais os salários superiores à média.\r\nb)\r\n" +
@@ -7,9 +9,10 @@ Console.WriteLine("1)\r\nDesenvolva uma aplicação que receba um número indefi
                   "A amplitude dos salários (diferença entre o salário mais alto e " +
                   "o mais baixo).");
 
-
+//2 liastas para guardar resultados
 List<float> salariosLista = RecolheCoisas();
-List<float> superiorMedia = SuperiorMedia(salariosLista);
+float media = Media(salariosLista);
+List<float> superiorMedia = SuperiorA(salariosLista, media);
 
 
 float somaSalarios = Soma(salariosLista);
@@ -55,23 +58,23 @@ static List<float> RecolheCoisas()
     return numeros;
 }
 
-static List<float> SuperiorMedia(List<float> numeros)
+static List<float> SuperiorA(List<float> numeros, float valor)
 {
-    List<float> listaSuperioresMedia = new List<float>();
-    float media = Media(numeros);
+    List<float> superiores = new List<float>();
+    
    
     
     if (numeros.Count == 0)
-        return listaSuperioresMedia;
+        return superiores;
     for (int i = 0; i < numeros.Count; i++)
     {
-        if (numeros[i] > media)
+        if (numeros[i] > valor)
         {
-            listaSuperioresMedia.Add(numeros[i]);
+            superiores.Add(numeros[i]);
         }
     }
 
-    return listaSuperioresMedia;
+    return superiores;
 }
 static float Amplitude(List<float> numeros)
 {
@@ -130,3 +133,10 @@ static float Soma(List<float> numeros)
     return soma;
 }
 
+static List<float> FiltraLista(List<float> lista, Filtro filtro, float valor)
+{
+    switch (filtro)
+    {
+        
+    }
+}

@@ -24,6 +24,7 @@ static List<int> RecolheNumeros()
     Console.WriteLine("Digite os números ('-1' para sair do loop):");
     List<int> numeros = new List<int>();
     int input;
+    
     while (true)
     {
         Console.WriteLine("Digite numeros:");
