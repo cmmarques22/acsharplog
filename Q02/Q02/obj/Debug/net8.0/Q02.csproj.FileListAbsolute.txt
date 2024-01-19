@@ -1,0 +1,15 @@
+C:\Users\FX516\powerAppsProjects\Q02\Q02\bin\Debug\net8.0\Q02.exe
+C:\Users\FX516\powerAppsProjects\Q02\Q02\bin\Debug\net8.0\Q02.deps.json
+C:\Users\FX516\powerAppsProjects\Q02\Q02\bin\Debug\net8.0\Q02.runtimeconfig.json
+C:\Users\FX516\powerAppsProjects\Q02\Q02\bin\Debug\net8.0\Q02.dll
+C:\Users\FX516\powerAppsProjects\Q02\Q02\bin\Debug\net8.0\Q02.pdb
+C:\Users\FX516\powerAppsProjects\Q02\Q02\obj\Debug\net8.0\Q02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\powerAppsProjects\Q02\Q02\obj\Debug\net8.0\Q02.AssemblyInfoInputs.cache
+C:\Users\FX516\powerAppsProjects\Q02\Q02\obj\Debug\net8.0\Q02.AssemblyInfo.cs
+C:\Users\FX516\powerAppsProjects\Q02\Q02\obj\Debug\net8.0\Q02.csproj.CoreCompileInputs.cache
+C:\Users\FX516\powerAppsProjects\Q02\Q02\obj\Debug\net8.0\Q02.sourcelink.json
+C:\Users\FX516\powerAppsProjects\Q02\Q02\obj\Debug\net8.0\Q02.dll
+C:\Users\FX516\powerAppsProjects\Q02\Q02\obj\Debug\net8.0\refint\Q02.dll
+C:\Users\FX516\powerAppsProjects\Q02\Q02\obj\Debug\net8.0\Q02.pdb
+C:\Users\FX516\powerAppsProjects\Q02\Q02\obj\Debug\net8.0\Q02.genruntimeconfig.cache
+C:\Users\FX516\powerAppsProjects\Q02\Q02\obj\Debug\net8.0\ref\Q02.dll

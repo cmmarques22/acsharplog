@@ -1,0 +1,15 @@
+C:\Users\FX516\powerAppsProjects\FichaPrep\Entrega4.1ComparalistaExiste\bin\Debug\net8.0\Entrega4.1ComparalistaExiste.exe
+C:\Users\FX516\powerAppsProjects\FichaPrep\Entrega4.1ComparalistaExiste\bin\Debug\net8.0\Entrega4.1ComparalistaExiste.deps.json
+C:\Users\FX516\powerAppsProjects\FichaPrep\Entrega4.1ComparalistaExiste\bin\Debug\net8.0\Entrega4.1ComparalistaExiste.runtimeconfig.json
+C:\Users\FX516\powerAppsProjects\FichaPrep\Entrega4.1ComparalistaExiste\bin\Debug\net8.0\Entrega4.1ComparalistaExiste.dll
+C:\Users\FX516\powerAppsProjects\FichaPrep\Entrega4.1ComparalistaExiste\bin\Debug\net8.0\Entrega4.1ComparalistaExiste.pdb
+C:\Users\FX516\powerAppsProjects\FichaPrep\Entrega4.1ComparalistaExiste\obj\Debug\net8.0\Entrega4.1ComparalistaExiste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\powerAppsProjects\FichaPrep\Entrega4.1ComparalistaExiste\obj\Debug\net8.0\Entrega4.1ComparalistaExiste.AssemblyInfoInputs.cache
+C:\Users\FX516\powerAppsProjects\FichaPrep\Entrega4.1ComparalistaExiste\obj\Debug\net8.0\Entrega4.1ComparalistaExiste.AssemblyInfo.cs
+C:\Users\FX516\powerAppsProjects\FichaPrep\Entrega4.1ComparalistaExiste\obj\Debug\net8.0\Entrega4.1ComparalistaExiste.csproj.CoreCompileInputs.cache
+C:\Users\FX516\powerAppsProjects\FichaPrep\Entrega4.1ComparalistaExiste\obj\Debug\net8.0\Entrega4.1ComparalistaExiste.sourcelink.json
+C:\Users\FX516\powerAppsProjects\FichaPrep\Entrega4.1ComparalistaExiste\obj\Debug\net8.0\Entrega4.1ComparalistaExiste.dll
+C:\Users\FX516\powerAppsProjects\FichaPrep\Entrega4.1ComparalistaExiste\obj\Debug\net8.0\refint\Entrega4.1ComparalistaExiste.dll
+C:\Users\FX516\powerAppsProjects\FichaPrep\Entrega4.1ComparalistaExiste\obj\Debug\net8.0\Entrega4.1ComparalistaExiste.pdb
+C:\Users\FX516\powerAppsProjects\FichaPrep\Entrega4.1ComparalistaExiste\obj\Debug\net8.0\Entrega4.1ComparalistaExiste.genruntimeconfig.cache
+C:\Users\FX516\powerAppsProjects\FichaPrep\Entrega4.1ComparalistaExiste\obj\Debug\net8.0\ref\Entrega4.1ComparalistaExiste.dll

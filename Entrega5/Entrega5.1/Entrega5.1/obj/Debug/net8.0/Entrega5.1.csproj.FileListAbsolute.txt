@@ -1,0 +1,15 @@
+C:\Users\FX516\powerAppsProjects\Entrega5.1\Entrega5.1\bin\Debug\net8.0\Entrega5.1.exe
+C:\Users\FX516\powerAppsProjects\Entrega5.1\Entrega5.1\bin\Debug\net8.0\Entrega5.1.deps.json
+C:\Users\FX516\powerAppsProjects\Entrega5.1\Entrega5.1\bin\Debug\net8.0\Entrega5.1.runtimeconfig.json
+C:\Users\FX516\powerAppsProjects\Entrega5.1\Entrega5.1\bin\Debug\net8.0\Entrega5.1.dll
+C:\Users\FX516\powerAppsProjects\Entrega5.1\Entrega5.1\bin\Debug\net8.0\Entrega5.1.pdb
+C:\Users\FX516\powerAppsProjects\Entrega5.1\Entrega5.1\obj\Debug\net8.0\Entrega5.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\powerAppsProjects\Entrega5.1\Entrega5.1\obj\Debug\net8.0\Entrega5.1.AssemblyInfoInputs.cache
+C:\Users\FX516\powerAppsProjects\Entrega5.1\Entrega5.1\obj\Debug\net8.0\Entrega5.1.AssemblyInfo.cs
+C:\Users\FX516\powerAppsProjects\Entrega5.1\Entrega5.1\obj\Debug\net8.0\Entrega5.1.csproj.CoreCompileInputs.cache
+C:\Users\FX516\powerAppsProjects\Entrega5.1\Entrega5.1\obj\Debug\net8.0\Entrega5.1.sourcelink.json
+C:\Users\FX516\powerAppsProjects\Entrega5.1\Entrega5.1\obj\Debug\net8.0\Entrega5.1.dll
+C:\Users\FX516\powerAppsProjects\Entrega5.1\Entrega5.1\obj\Debug\net8.0\refint\Entrega5.1.dll
+C:\Users\FX516\powerAppsProjects\Entrega5.1\Entrega5.1\obj\Debug\net8.0\Entrega5.1.pdb
+C:\Users\FX516\powerAppsProjects\Entrega5.1\Entrega5.1\obj\Debug\net8.0\Entrega5.1.genruntimeconfig.cache
+C:\Users\FX516\powerAppsProjects\Entrega5.1\Entrega5.1\obj\Debug\net8.0\ref\Entrega5.1.dll

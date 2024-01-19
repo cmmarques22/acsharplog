@@ -1,0 +1,15 @@
+C:\Users\FX516\powerAppsProjects\Q01\Q01\bin\Debug\net8.0\Q01.exe
+C:\Users\FX516\powerAppsProjects\Q01\Q01\bin\Debug\net8.0\Q01.deps.json
+C:\Users\FX516\powerAppsProjects\Q01\Q01\bin\Debug\net8.0\Q01.runtimeconfig.json
+C:\Users\FX516\powerAppsProjects\Q01\Q01\bin\Debug\net8.0\Q01.dll
+C:\Users\FX516\powerAppsProjects\Q01\Q01\bin\Debug\net8.0\Q01.pdb
+C:\Users\FX516\powerAppsProjects\Q01\Q01\obj\Debug\net8.0\Q01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\powerAppsProjects\Q01\Q01\obj\Debug\net8.0\Q01.AssemblyInfoInputs.cache
+C:\Users\FX516\powerAppsProjects\Q01\Q01\obj\Debug\net8.0\Q01.AssemblyInfo.cs
+C:\Users\FX516\powerAppsProjects\Q01\Q01\obj\Debug\net8.0\Q01.csproj.CoreCompileInputs.cache
+C:\Users\FX516\powerAppsProjects\Q01\Q01\obj\Debug\net8.0\Q01.sourcelink.json
+C:\Users\FX516\powerAppsProjects\Q01\Q01\obj\Debug\net8.0\Q01.dll
+C:\Users\FX516\powerAppsProjects\Q01\Q01\obj\Debug\net8.0\refint\Q01.dll
+C:\Users\FX516\powerAppsProjects\Q01\Q01\obj\Debug\net8.0\Q01.pdb
+C:\Users\FX516\powerAppsProjects\Q01\Q01\obj\Debug\net8.0\Q01.genruntimeconfig.cache
+C:\Users\FX516\powerAppsProjects\Q01\Q01\obj\Debug\net8.0\ref\Q01.dll

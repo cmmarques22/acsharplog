@@ -7,8 +7,9 @@ using System.Threading.Tasks;
 namespace exerciciosficha
 {
     public enum Filtro    {
-        SuperiorA,
-        Iguala,
-        Inferiora
+        SuperioresA,
+        IgualOuSuperioresA,
+        InferioresA,
+        IgualOuInferioresA,
     }
 }

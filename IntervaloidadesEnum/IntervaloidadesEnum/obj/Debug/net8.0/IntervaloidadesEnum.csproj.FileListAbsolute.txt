@@ -1,0 +1,15 @@
+C:\Users\FX516\powerAppsProjects\IntervaloidadesEnum\IntervaloidadesEnum\bin\Debug\net8.0\IntervaloidadesEnum.exe
+C:\Users\FX516\powerAppsProjects\IntervaloidadesEnum\IntervaloidadesEnum\bin\Debug\net8.0\IntervaloidadesEnum.deps.json
+C:\Users\FX516\powerAppsProjects\IntervaloidadesEnum\IntervaloidadesEnum\bin\Debug\net8.0\IntervaloidadesEnum.runtimeconfig.json
+C:\Users\FX516\powerAppsProjects\IntervaloidadesEnum\IntervaloidadesEnum\bin\Debug\net8.0\IntervaloidadesEnum.dll
+C:\Users\FX516\powerAppsProjects\IntervaloidadesEnum\IntervaloidadesEnum\bin\Debug\net8.0\IntervaloidadesEnum.pdb
+C:\Users\FX516\powerAppsProjects\IntervaloidadesEnum\IntervaloidadesEnum\obj\Debug\net8.0\IntervaloidadesEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\powerAppsProjects\IntervaloidadesEnum\IntervaloidadesEnum\obj\Debug\net8.0\IntervaloidadesEnum.AssemblyInfoInputs.cache
+C:\Users\FX516\powerAppsProjects\IntervaloidadesEnum\IntervaloidadesEnum\obj\Debug\net8.0\IntervaloidadesEnum.AssemblyInfo.cs
+C:\Users\FX516\powerAppsProjects\IntervaloidadesEnum\IntervaloidadesEnum\obj\Debug\net8.0\IntervaloidadesEnum.csproj.CoreCompileInputs.cache
+C:\Users\FX516\powerAppsProjects\IntervaloidadesEnum\IntervaloidadesEnum\obj\Debug\net8.0\IntervaloidadesEnum.sourcelink.json
+C:\Users\FX516\powerAppsProjects\IntervaloidadesEnum\IntervaloidadesEnum\obj\Debug\net8.0\IntervaloidadesEnum.dll
+C:\Users\FX516\powerAppsProjects\IntervaloidadesEnum\IntervaloidadesEnum\obj\Debug\net8.0\refint\IntervaloidadesEnum.dll
+C:\Users\FX516\powerAppsProjects\IntervaloidadesEnum\IntervaloidadesEnum\obj\Debug\net8.0\IntervaloidadesEnum.pdb
+C:\Users\FX516\powerAppsProjects\IntervaloidadesEnum\IntervaloidadesEnum\obj\Debug\net8.0\IntervaloidadesEnum.genruntimeconfig.cache
+C:\Users\FX516\powerAppsProjects\IntervaloidadesEnum\IntervaloidadesEnum\obj\Debug\net8.0\ref\IntervaloidadesEnum.dll

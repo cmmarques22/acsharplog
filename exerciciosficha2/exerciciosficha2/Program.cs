@@ -84,7 +84,7 @@ static bool IsPrime(int number)
     {
         return false;
     }
-
+    //primo so tem 2 divisores, 1 e ele proprio
     return DaQtdDivisores(number) == 2;
 }
 

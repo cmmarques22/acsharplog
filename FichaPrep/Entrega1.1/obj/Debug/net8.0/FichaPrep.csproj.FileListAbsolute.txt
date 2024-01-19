@@ -1,0 +1,15 @@
+C:\Users\FX516\powerAppsProjects\FichaPrep\FichaPrep\obj\Debug\net8.0\FichaPrep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\powerAppsProjects\FichaPrep\FichaPrep\obj\Debug\net8.0\FichaPrep.AssemblyInfoInputs.cache
+C:\Users\FX516\powerAppsProjects\FichaPrep\FichaPrep\obj\Debug\net8.0\FichaPrep.AssemblyInfo.cs
+C:\Users\FX516\powerAppsProjects\FichaPrep\FichaPrep\obj\Debug\net8.0\FichaPrep.csproj.CoreCompileInputs.cache
+C:\Users\FX516\powerAppsProjects\FichaPrep\FichaPrep\obj\Debug\net8.0\FichaPrep.sourcelink.json
+C:\Users\FX516\powerAppsProjects\FichaPrep\FichaPrep\bin\Debug\net8.0\FichaPrep.exe
+C:\Users\FX516\powerAppsProjects\FichaPrep\FichaPrep\bin\Debug\net8.0\FichaPrep.deps.json
+C:\Users\FX516\powerAppsProjects\FichaPrep\FichaPrep\bin\Debug\net8.0\FichaPrep.runtimeconfig.json
+C:\Users\FX516\powerAppsProjects\FichaPrep\FichaPrep\bin\Debug\net8.0\FichaPrep.dll
+C:\Users\FX516\powerAppsProjects\FichaPrep\FichaPrep\bin\Debug\net8.0\FichaPrep.pdb
+C:\Users\FX516\powerAppsProjects\FichaPrep\FichaPrep\obj\Debug\net8.0\FichaPrep.dll
+C:\Users\FX516\powerAppsProjects\FichaPrep\FichaPrep\obj\Debug\net8.0\refint\FichaPrep.dll
+C:\Users\FX516\powerAppsProjects\FichaPrep\FichaPrep\obj\Debug\net8.0\FichaPrep.pdb
+C:\Users\FX516\powerAppsProjects\FichaPrep\FichaPrep\obj\Debug\net8.0\FichaPrep.genruntimeconfig.cache
+C:\Users\FX516\powerAppsProjects\FichaPrep\FichaPrep\obj\Debug\net8.0\ref\FichaPrep.dll
