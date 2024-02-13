@@ -1,0 +1,29 @@
+<!-- <app-list-families></app-list-families>
+ -->
+
+ <h1>Tipos de Ocorrencias</h1>d
+
+ <div class="row">
+     <div class=" col-sm-12 col-md-3 bg-warning text-dark p-5 mb-3 ">
+         <button #list id="list"  class="nav-link mb-2" (click)="openComponent(list)">View all tipo-ocorrencias</button>
+         <button #create  id="create" class="nav-link mb-2" (click)="openComponent(create)">Create tipo-ocorrencia</button>
+         <button #update  id="update"  class="nav-link mb-2" (click)="openComponent(update)">Update tipo-ocorrencia</button>
+         <button #delete  id="delete"  class="nav-link mb-2" (click)="openComponent(delete)">Delete tipo-ocorrencia</button>
+         <button #read  id="read"  class="nav-link mb-2" (click)="openComponent(read)">read tipo-ocorrencia</button>
+ 
+     </div>
+ 
+     <div class=" col-sm-12 col-md-9 p-3 mb-3 ">
+         <ng-container [ngSwitch] = "currentComponent">
+             <app-list-tipo-ocorrencias *ngSwitchCase="'list-tipo-ocorrencias'"></app-list-tipo-ocorrencias>
+             <app-update-tipo-ocorrencia *ngSwitchCase="'update-tipo-ocorrencia'"></app-update-tipo-ocorrencia>
+             <app-create-tipo-ocorrencia *ngSwitchCase="'create-tipo-ocorrencia'"></app-create-tipo-ocorrencia>
+             <app-read-tipo-ocorrencia *ngSwitchCase="'read-tipo-ocorrencia'"></app-read-tipo-ocorrencia>
+             <app-delete-tipo-ocorrencia *ngSwitchCase="'delete-tipo-ocorrencia'"></app-delete-tipo-ocorrencia> 
+             <div *ngSwitchDefault class="d-flex justify-content-center">
+                 <img src="/assets/images/stock.png" alt="" class="img-fluid w-50">
+             </div>
+         </ng-container>
+         
+     </div>
+ </div>

@@ -1,0 +1,23 @@
+<div class="container mt-5">
+    <div class="row justify-content-center">
+      <div class="col-md-6">
+        <div class="card">
+          <div class="card-header">
+            Atualizar tipo-ocorrencia
+          </div>
+          <div class="card-body">
+            <form>
+              <!-- <div class="form-group">
+                <label for="id">ID do tipo-ocorrencia:</label>
+                <input type="number" class="form-control" id="idTipoOcorrencia" [(ngModel)]="novoTPO.idTipoOcorrencia" name="id" inputmode="numeric" on-input="getById()">
+              </div> -->
+              <div class="form-group">
+                <label for="codigoPostal"> tipo-ocorrencia:</label>
+                <input type="text" class="form-control" id="descricao" [(ngModel)]="novoTO.descricao" name="descricao">
+              </div>
+              <button type="submit" class="btn btn-primary" (click)="atualizarTPO()">Atualizar</button>            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
