@@ -1,8 +1,7 @@
 <!-- <app-list-families></app-list-families>
  -->
 
- <h1>Tipos de Ocorrencias</h1>d
-
+<!-- 
  <div class="row">
      <div class=" col-sm-12 col-md-3 bg-warning text-dark p-5 mb-3 ">
          <button #list id="list"  class="nav-link mb-2" (click)="openComponent(list)">View all tipo-ocorrencias</button>
@@ -26,4 +25,47 @@
          </ng-container>
          
      </div>
- </div>
+ </div> -->
+
+<div>
+    <div>    
+        <button type="button" class="btn btn-danger" id="create" #create (click)="openComponent(create)">Criar Tipo de Ocorrencia</button>
+    </div>
+    <div>
+        <ng-container [ngSwitch]= "currentComponent">
+            <app-create-tipo-ocorrencia *ngSwitchCase="'create-tipo-ocorrencia'"></app-create-tipo-ocorrencia>
+            <div *ngSwitchDefault class="d-flex justify-content-center">
+            </div>
+        </ng-container>
+    </div>
+</div>
+
+
+ <section>
+    <h1>Lista de Tipos de Ocorrencia</h1>
+    <div class="container px-4 px-lg-5">
+        <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+            <div class="col mb-5" *ngFor="let tpo of tipoOcorrenciaList">
+                <div class="card h-100">
+                    <!-- tipo image-->
+                    <img class="card-img-top" src="/assets/images/Sample.png" alt="..." />
+                    <!-- tipo details-->
+                     <div class="card-body p-4">
+                        <div class="text-center">
+                            <!-- tipo name-->
+                            <h5 class="fw-bolder">{{tpo.idTipoOcorrencia}} - {{tpo.descricao}}</h5>
+
+                        </div>
+                    </div> 
+                    <!-- tipo actions-->
+                     <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                        <div class="text-center"><a [routerLink]="['/update-tipo-ocorrencia', tpo.idTipoOcorrencia]" routerLinkActive="active" class="btn btn-outline-dark mt-auto">update Tipo de ocorrencia</a></div>
+                        <div class="text-center"><a [routerLink]="['/delete-tipo-ocorrencia', tpo.idTipoOcorrencia]" routerLinkActive="active" class="btn btn-outline-dark mt-auto">Delete Tipo de ocorrencia</a></div>
+                        <div class="text-center"><a [routerLink]="['/read-tipo-ocorrencia', tpo.idTipoOcorrencia]" routerLinkActive="active" class="btn btn-outline-dark mt-auto">View Tipo de ocorrenciaDetails</a></div>
+                    </div>
+                </div>
+            </div>
+
+        </div> 
+    </div>
+</section>
