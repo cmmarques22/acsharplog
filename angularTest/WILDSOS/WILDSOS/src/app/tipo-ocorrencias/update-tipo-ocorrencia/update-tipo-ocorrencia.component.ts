@@ -50,7 +50,7 @@ atualizarTPO(): void {
         
         console.log('sucesso:', response);
         alert("Success updating");
-        this.router.navigate(['/list-tipo-ocorrencias']);
+        this.router.navigate(['/tiposOcorrencias']);
       },
       (error: any) => {
         console.error('Erro:', error);

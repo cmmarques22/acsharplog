@@ -1,5 +1,5 @@
 export interface Especie {
-    IdEspecie?: number | null;
-    Classe: string;
-    Especie1: string;
+    idEspecie?: number;
+    classe: string;
+    especie1: string;
 }

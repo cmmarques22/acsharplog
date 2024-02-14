@@ -15,9 +15,7 @@ export class TipoOcorrenciaService {
     this.apiUrl = environment.apiUrl + "TipoOcorrencias";
    };
 
-  //  apiUrl: string = environment.apiUrl + 'Families';  // Adjust the concatenation here
 
-  // constructor(private httpClient: HttpClient) {}
 
    async getAll(): Promise<Observable<TipoOcorrencia[]>> {
     return await this.httpClient.get<TipoOcorrencia[]>(this.apiUrl);

@@ -11,37 +11,29 @@ import { of } from 'rxjs';
   providedIn: 'root'
 })
 export class EspecieService {
-  [x: string]: any;
+
   apiUrl: string = "";
 
   constructor(private httpClient: HttpClient) {
     this.apiUrl = environment.apiUrl + "Especies";
    };
 
-  //  apiUrl: string = environment.apiUrl + 'Families';  // Adjust the concatenation here
 
-  // constructor(private httpClient: HttpClient) {}
 
    async getAll(): Promise<Observable<Especie[]>> {
   const data = await this.httpClient.get<Especie[]>(this.apiUrl);
   console.log(data); // Log the received data
-  return data;
+  return   await this.httpClient.get<Especie[]>(this.apiUrl);;
 }
 
-create(especieBody: any): Observable<Especie> {
+async create(especieBody: any): Promise<Observable<Especie>> {
   const httpOptions = {
     headers: new HttpHeaders({
       'Content-Type': 'application/json'
     })
   };
 
-  return this.httpClient.post<Especie>(this.apiUrl, especieBody, httpOptions)
-    .pipe(
-      catchError((error) => {
-        console.error(error);
-        throw error;
-      })
-    );
+  return await this.httpClient.post<Especie>(this.apiUrl, especieBody, httpOptions);
 }
   
 
@@ -61,7 +53,7 @@ create(especieBody: any): Observable<Especie> {
     return this.httpClient.delete<Especie>(this.apiUrl + "/" + id);//return obs
 
   }
-  getById(id:string): Observable<Especie> {
+  getEspecieById(id:string): Observable<Especie> {
     return this.httpClient.get<Especie>(this.apiUrl + "/" + id);//return obs
    
 }}

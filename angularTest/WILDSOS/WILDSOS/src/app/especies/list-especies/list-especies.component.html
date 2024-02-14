@@ -1,19 +1,18 @@
-<section>
+<!-- <section>
   <h1>Especies List</h1>
   <div class="container px-4 px-lg-5">
     <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
       <div class="col mb-5" *ngFor="let esp of especiesList">
         <div class="card h-100">
-          <!-- especie image-->
           <img class="card-img-top" src="/assets/images/stock.png" alt="..." />
-          <!-- especie details-->
+
           <div class="card-body p-4">
             <div class="text-center">
-              <!-- especie name-->
-              <h5 class="fw-bolder">{{ esp.IdEspecie }} - {{ esp.Classe }} - {{ esp.Especie1 }}</h5>
+
+              <h5 class="fw-bolder">{{ esp.idEspecie }} - {{ esp.Classe }} - {{ esp.especie1 }}</h5>
             </div>
           </div>
-          <!-- especie actions-->
+
           <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
             <div class="text-center"><a href="#" class="btn btn-outline-dark mt-auto">View details</a></div>
             <div class="text-center"><a href="#" class="btn btn-outline-dark mt-auto">Delete Especie</a></div>
@@ -24,4 +23,50 @@
   </div>
 
   
-</section>
+</section> -->
+<section>
+  <h1> Listas de Especies</h1>
+  <div class="container px-4 px-lg-5">
+      <div class="row gx-4 gx-lg-5">
+          <div class="col-md-12 mb-3" *ngFor="let esp of especiesList" id="listEsp" class="tipo-row-content">
+              <!-- Clickable row -->
+              <a [routerLink]="['/read-especie', esp.idEspecie]" class="text-decoration-none">
+                  <div class="row">
+                      <!-- Left side with image, ID, and Descricao -->
+                      <div class="col-md-2 align-items-center">
+                          <img class="img-fluid" [src]="getImageSource(esp.especie1)" alt="{{esp.especie1}}" />
+                      </div>
+                      <div class="col-md-2 d-flex justify-content-center align-items-center">
+                          <div class="text-center">
+                              <h5 class="fw-bolder">{{esp.idEspecie}}</h5>
+                              <p>{{esp.especie1}}</p>
+                          </div>
+                      </div>
+
+                      <!-- Right side with buttons -->
+                      <div class="col-md-8 d-flex justify-content-center align-items-center tipo-icons-container ">
+                                                      <!-- Read Button -->
+                          <div class="tipo-icons justify-content-center">
+                              <a [routerLink]="['/read-especie', esp.idEspecie]" class="btn btn-outline-dark mt-auto">
+                                  <img src="/assets/images/read.png" alt="Read Icon" class="img-fluid icon-image update-icon" style="width: 75px; height: 75px; margin: auto;" />
+                              </a>
+                          </div>
+                          <!-- Update Button -->
+                          <div class="tipo-icons justify-content-center">
+                              <a [routerLink]="['/update-especie', esp.idEspecie]" class="btn btn-outline-dark mt-auto">
+                                  <img src="/assets/images/update.png" alt="Update Icon" class="img-fluid icon-image update-icon" style="width: 75px; height: 75px; margin: auto;" />
+                              </a>
+                          </div>
+                          
+                          <!-- Delete Button -->
+                          <div class="tipo-icons justify-content-end">
+                              <a [routerLink]="['/delete-especie', esp.idEspecie]" class="btn btn-outline-dark mt-auto">
+                                  <img src="/assets/images/delete.png" alt="Delete Icon" class="img-fluid icon-image" style="width: 75px; height: 75px; margin: auto;" />
+                              </a>
+                          </div>
+                      </div>
+                  </div>
+              </a>
+          </div>
+      </div>
+  </div>

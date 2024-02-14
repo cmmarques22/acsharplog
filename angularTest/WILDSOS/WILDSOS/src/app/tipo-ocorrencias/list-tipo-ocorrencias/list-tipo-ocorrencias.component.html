@@ -1,28 +1,46 @@
-<!-- <section>
+<section>
     <h1> Tipos de Ocorrencia</h1>
     <div class="container px-4 px-lg-5">
-        <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
-            <div class="col mb-5" *ngFor="let tpo of tipoOcorrenciaList">
-                <div class="card h-100">
-                  
-                    <img class="card-img-top" src="/assets/images/Sample.png" alt="..." />
-                
-                     <div class="card-body p-4">
-                        <div class="text-center">
-                            
-                            <h5 class="fw-bolder">{{tpo.idTipoOcorrencia}} - {{tpo.descricao}}</h5>
-
+        <div class="row gx-4 gx-lg-5">
+            <div class="col-md-12 mb-3" *ngFor="let tpo of tipoOcorrenciaList" id="listTPO" class="tipo-row-content">
+                <!-- Clickable row -->
+                <a [routerLink]="['/read-tipo-ocorrencia', tpo.idTipoOcorrencia]" class="text-decoration-none">
+                    <div class="row">
+                        <!-- Left side with image, ID, and Descricao -->
+                        <div class="col-md-2 align-items-center">
+                            <img class="img-fluid" [src]="getImageSource(tpo.descricao)" alt="{{tpo.descricao}}" />
                         </div>
-                    </div> 
-                  
-                     <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                        <div class="text-center"><a [routerLink]="['/update-tipo-ocorrencia', tpo.idTipoOcorrencia]" routerLinkActive="active" class="btn btn-outline-dark mt-auto">update Tipo de ocorrencia</a></div>
-                        <div class="text-center"><a [routerLink]="['/delete-tipo-ocorrencia', tpo.idTipoOcorrencia]" routerLinkActive="active" class="btn btn-outline-dark mt-auto">Delete Tipo de ocorrencia</a></div>
-                        <div class="text-center"><a [routerLink]="['/read-tipo-ocorrencia', tpo.idTipoOcorrencia]" routerLinkActive="active" class="btn btn-outline-dark mt-auto">View Tipo de ocorrenciaDetails</a></div>
-                    </div>
-                </div>
-            </div>
+                        <div class="col-md-2 d-flex justify-content-center align-items-center">
+                            <div class="text-center">
+                                <h5 class="fw-bolder">{{tpo.idTipoOcorrencia}}</h5>
+                                <p>{{tpo.descricao}}</p>
+                            </div>
+                        </div>
 
-        </div> 
+                        <!-- Right side with buttons -->
+                        <div class="col-md-8 d-flex justify-content-center align-items-center tipo-icons-container ">
+                                                        <!-- Read Button -->
+                            <div class="tipo-icons justify-content-center">
+                                <a [routerLink]="['/read-tipo-ocorrencia', tpo.idTipoOcorrencia]" class="btn btn-outline-dark mt-auto">
+                                    <img src="/assets/images/read.png" alt="Read Icon" class="img-fluid icon-image update-icon" style="width: 75px; height: 75px; margin: auto;" />
+                                </a>
+                            </div>
+                            <!-- Update Button -->
+                            <div class="tipo-icons justify-content-center">
+                                <a [routerLink]="['/update-tipo-ocorrencia', tpo.idTipoOcorrencia]" class="btn btn-outline-dark mt-auto">
+                                    <img src="/assets/images/update.png" alt="Update Icon" class="img-fluid icon-image update-icon" style="width: 75px; height: 75px; margin: auto;" />
+                                </a>
+                            </div>
+                            
+                            <!-- Delete Button -->
+                            <div class="tipo-icons justify-content-end">
+                                <a [routerLink]="['/delete-tipo-ocorrencia', tpo.idTipoOcorrencia]" class="btn btn-outline-dark mt-auto">
+                                    <img src="/assets/images/delete.png" alt="Delete Icon" class="img-fluid icon-image" style="width: 75px; height: 75px; margin: auto;" />
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
     </div>
-</section> -->

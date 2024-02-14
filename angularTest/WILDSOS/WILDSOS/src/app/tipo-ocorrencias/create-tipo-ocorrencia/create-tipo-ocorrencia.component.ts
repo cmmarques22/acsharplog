@@ -30,8 +30,10 @@ export class CreateTipoOcorrenciaComponent {
    console.log(this.tipoOcorrencia);
     this.service.create(this.tipoOcorrencia).then(data => {
       data.subscribe(data => {
-        alert("sucesso criar tipo");
+        alert("Tipo de Ocorrencia criado");
         console.log(data, "1")
+        location.reload();
+                
       })
     }).then(() => {
       this.createForm.reset();

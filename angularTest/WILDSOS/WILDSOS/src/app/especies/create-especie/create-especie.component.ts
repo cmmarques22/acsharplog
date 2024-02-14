@@ -14,40 +14,37 @@ export class CreateEspecieComponent {
 
   constructor(private service: EspecieService, private formBuilder: FormBuilder) {
     this.createForm = this.formBuilder.group({
-      Classe: ['', [Validators.required]],
-      Especie1: ['', [Validators.required]],
+      idEspecie: ['', [Validators.required]],
+      classe: ['', [Validators.required]],
+      especie1: ['', [Validators.required]],
     });
-  
+
     this.especie = {
-      IdEspecie: null,
-      Classe: '',
-      Especie1: ''
+      // idEspecie: null,
+      classe: '',
+      especie1: ''
     };
   }
 
-  async create() {
-    const payload = {
-      Classe: this.especie.Classe,
-      Especie1: this.especie.Especie1,
-    };
-
-    console.log(payload);
-
-    (await this.service.create(payload)).subscribe(
-      data => {
-        alert("Success creating especie");
-        console.log(data, "1");
-        this.createForm.reset();
-        this.especie = {
-          IdEspecie: null,
-          Classe: '',
-          Especie1: ''
-        };
-      },
-      error => {
-        alert('Error creating especie');
-        console.log(error, "2");
-      }
-    );
+  create() {
+    console.log(this.especie);
+    this.service.create(this.especie).then(data => {
+      data.subscribe(data => {
+        alert('Especie criada');
+        console.log(data, '1');
+        location.reload();
+      });
+    }).then(() => {
+      this.createForm.reset();
+      this.especie = {
+        // IdTipoOcorrencia: '',
+        classe: '',
+        especie1: ''
+      };
+    }).catch(error => {
+      alert('Erro ao criar especie');
+      console.log(error, '2');
+    });
   }
 }
+

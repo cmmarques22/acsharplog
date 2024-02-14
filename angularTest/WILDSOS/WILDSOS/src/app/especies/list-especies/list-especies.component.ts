@@ -11,21 +11,33 @@ import { Observable } from 'rxjs';
 export class ListEspeciesComponent implements OnInit {
 
   especiesList: Especie[] = [];
-  especie?: Especie = undefined;
+  // especie?: Especie = undefined;
+  especie: any = {
+    idEspecie: 1,
+    especie1: 'Ave',
+    classe: 'Tartaruga' 
+  };
   constructor(private service: EspecieService) {
   }
   
-  ngOnInit() {
-    this.service.getAll().then((data: Observable<Especie[]>)=> {
-      data.subscribe(list => {
-        console.log(list); // Log the received data
-        this.especiesList = list;
-      });
+  ngOnInit(): void {
+    this.service.getAll().then((data: Observable<Especie[]>) => {
+     //o then recebe um retorn subscribe para tirar a lista de familas por causa da promise
+     // so é preciso fazer o subscribe
+     data.subscribe(list => {
+       console.log(list);
+       this.especiesList = list;
+     });
+    }).catch(error => {
+     console.log(error);
     });
-  }
+   }
+   getImageSource(especie1: string): string {
+     // Assuming your image files are named like 'Desastre Natural.jpg', 'Derrocada.jpg', etc.
+     return '/assets/images/' + especie1 + '.png';  }
+ 
+ }
 
-  
-}
 
 
 // ngOnInit(): void {

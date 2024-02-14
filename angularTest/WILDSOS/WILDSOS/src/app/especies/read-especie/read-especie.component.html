@@ -1,1 +1,40 @@
-<p>read-especie works!</p>
+<div class="container mt-5">
+    <div class="row justify-content-center">
+      <div class="col-md-6">
+        <div class="card">
+          <div class="card-header">
+            Consultar detalhes
+          </div>
+          <div class="card-body">
+            <form>
+              <div class="form-group">
+                <label for="idEspecie">ID da Especie:</label>
+                <input type="number" class="form-control" id="idEspecie" [(ngModel)]="idEspecie" name="idEspecie">
+              </div>
+              <button type="button" class="btn btn-primary" (click)="getEspecieById()">Pesquisar</button>
+              <hr>
+  
+              <div *ngIf="showEspecieDetails">
+                <div class="form-group">
+                  <label>ID da Especie:</label>
+                  <p>{{ especie.idEspecie }}</p>
+                </div>
+                <div class="form-group">
+                  <label>Especie:</label>
+                  <p>{{ especie.especie1 }}</p>
+                </div>
+                <div class="form-group">
+                  <label>Classe Animal:</label>
+                  <p>{{ especie.classe }}</p>
+                </div>
+              </div>
+            </form>
+            <button type="button" class="btn btn-secondary" (click)="goBackEspecie()">Voltar</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+
+  

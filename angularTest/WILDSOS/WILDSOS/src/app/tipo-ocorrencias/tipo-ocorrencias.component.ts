@@ -69,4 +69,9 @@ openComponent(hyperLink: any) {
       });
      }
 
+     getImageSource(descricao: string): string {
+      // Assuming your image files are named like 'Desastre Natural.jpg', 'Derrocada.jpg', etc.
+      return '/assets/images/' + descricao + '.png';  }
+  
+
 }

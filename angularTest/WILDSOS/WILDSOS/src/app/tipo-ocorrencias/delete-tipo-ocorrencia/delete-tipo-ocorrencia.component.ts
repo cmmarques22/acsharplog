@@ -32,7 +32,7 @@ export class DeleteTipoOcorrenciaComponent implements OnInit {
           console.log('Sucesso:', response);
           alert("Success deleting");
           // Redirect to the list page or perform any other navigation
-          this.router.navigate(['/list-tipo-ocorrencias']);
+          this.router.navigate(['/tiposOcorrencias']);
         },
         (error: any) => {
           console.error('Erro:', error);

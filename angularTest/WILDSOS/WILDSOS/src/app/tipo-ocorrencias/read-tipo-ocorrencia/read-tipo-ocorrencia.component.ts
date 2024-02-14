@@ -41,7 +41,7 @@ export class ReadTipoOcorrenciaComponent {
   
   goBack() {
     // Navigate back to the main page
-    this.router.navigate(['/list-tipo-ocorrencias']);
+    this.router.navigate(['/tiposOcorrencias']);
 }
 searchNewId() {
   this.router.navigate(['/read-tipo-ocorrencia']);

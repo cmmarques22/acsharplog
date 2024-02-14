@@ -6,6 +6,10 @@ import { ReadTipoOcorrenciaComponent } from './tipo-ocorrencias/read-tipo-ocorre
 import { ListTipoOcorrenciasComponent } from './tipo-ocorrencias/list-tipo-ocorrencias/list-tipo-ocorrencias.component';
 import { CreateTipoOcorrenciaComponent } from './tipo-ocorrencias/create-tipo-ocorrencia/create-tipo-ocorrencia.component';
 import { EspeciesComponent } from './especies/especies.component';
+import { ReadEspecieComponent } from './especies/read-especie/read-especie.component';
+import { CreateEspecieComponent } from './especies/create-especie/create-especie.component';
+import { ListEspeciesComponent } from './especies/list-especies/list-especies.component';
+import { DeleteEspecieComponent } from './especies/delete-especie/delete-especie.component';
 
 const routes: Routes = [
   { path: '', redirectTo: 'home', pathMatch: 'full' },
@@ -15,8 +19,18 @@ const routes: Routes = [
  { path: 'delete-tipo-ocorrencia/:idTipoOcorrencia', component: DeleteTipoOcorrenciaComponent },
  { path: 'read-tipo-ocorrencia/:idTipoOcorrencia', component: ReadTipoOcorrenciaComponent },
  //html
- { path: 'list-tipo-ocorrencia', component: ListTipoOcorrenciasComponent },
- { path: 'create-tipo-ocorrencia', component: CreateTipoOcorrenciaComponent },
+ { path: 'list-especie', component: ListTipoOcorrenciasComponent },
+ { path: 'create-especie', component: CreateTipoOcorrenciaComponent },
+ { path: 'read-especie/:id', component: ReadTipoOcorrenciaComponent },
+
+ { path: 'delete-especie/:idEspecie', component: DeleteEspecieComponent },
+ { path: 'read-especie/:idEspecie', component: ReadEspecieComponent },
+
+ { path: 'list-especie', component: ListEspeciesComponent },
+ { path: 'create-especie', component: CreateEspecieComponent },
+ { path: 'read-especie/:id', component: ReadEspecieComponent }
+ 
+
 ];
 
 @NgModule({

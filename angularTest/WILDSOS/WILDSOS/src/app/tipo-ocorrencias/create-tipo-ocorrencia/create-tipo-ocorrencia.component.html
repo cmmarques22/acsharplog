@@ -1,18 +1,28 @@
-<form (submit)="create()">
-    <div class="form-row">
-
-        <!-- <div class="form-group mt-3">
-            <label for="inputCode">ID Tipo de Ocorrencia</label>
-            <input type="text" class="form-control" id="idTipoOcorrencia"  name="idTipoOcorrencia" [(ngModel)]="tipoOcorrencia.idTipoOcorrencia">
-        </div> -->
-        <div class="form-group mt-3">
-            <label for="inputName">descricao</label>
-            <input type="text" class="form-control" id="descricao" placeholder="Ambiental ..." name="Descricao" [(ngModel)]="tipoOcorrencia.descricao">
-        </div>
-        
-
-        <button type="submit" class="btn btn-primary mt-3">Create</button>
-
-    </div> 
+<div class="container">
+    <div class="row justify-content-center">
+      <div class="col-md-6">
+        <form (submit)="create()">
+          <div class="form-group mt-3">
+            <!-- <label for="inputCode">ID Tipo de Ocorrencia</label>
+            <input type="text" class="form-control" id="idTipoOcorrencia" name="idTipoOcorrencia" [(ngModel)]="tipoOcorrencia.idTipoOcorrencia"> -->
+          </div>
+          <div class="form-group">
+            <label for="inputName">Descrição</label>
+            <select class="form-control" id="descricao" name="Descricao" [(ngModel)]="tipoOcorrencia.descricao">
+              <option value="Desastre Natural">Desastre Natural</option>
+              <option value="Derrocada">Derrocada</option>
+              <option value="Queda Árvore">Queda Árvore</option>
+              <option value="Contaminação">Contaminação</option>
+              <option value="Derrame">Derrame</option>
+              <option value="Descarga">Descarga</option>
+              <option value="Incêndio">Incêndio</option>
+            </select>
+          </div>
+          <div class="form-group text-center">
+            <button type="submit" class="btn btn-secondary dropdown-toggle">Create</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
   
-</form>
