@@ -20,7 +20,6 @@ export class DeleteEspecieComponent implements OnInit {
     const idString = this.route.snapshot.paramMap.get('idEspecie');
     this.id = idString !== null ? parseInt(idString) : 0;
     console.log(this.id);
-    // Automatically fetch details on component initialization (if needed)
   }
 
   deleteEspecie(): void {

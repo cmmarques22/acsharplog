@@ -16,20 +16,7 @@ const routes: Routes = [
   { path: 'home', component: HomeComponent },
   { path: 'especies', loadChildren: () => import('./especies/especies.module').then(m => m.EspeciesModule) },
  { path: 'tiposOcorrencias', loadChildren: () => import('./tipo-ocorrencias/tipo-ocorrencias.module').then(m => m.TipoOcorrenciasModule) },
- { path: 'delete-tipo-ocorrencia/:idTipoOcorrencia', component: DeleteTipoOcorrenciaComponent },
- { path: 'read-tipo-ocorrencia/:idTipoOcorrencia', component: ReadTipoOcorrenciaComponent },
- //html
- { path: 'list-especie', component: ListTipoOcorrenciasComponent },
- { path: 'create-especie', component: CreateTipoOcorrenciaComponent },
- { path: 'read-especie/:id', component: ReadTipoOcorrenciaComponent },
 
- { path: 'delete-especie/:idEspecie', component: DeleteEspecieComponent },
- { path: 'read-especie/:idEspecie', component: ReadEspecieComponent },
-
- { path: 'list-especie', component: ListEspeciesComponent },
- { path: 'create-especie', component: CreateEspecieComponent },
- { path: 'read-especie/:id', component: ReadEspecieComponent }
- 
 
 ];
 

@@ -11,8 +11,8 @@ const routes: Routes = [
   { path: '', component: EspeciesComponent }, 
   { path: 'list-especies', component: ListEspeciesComponent }, 
   { path: 'create-especie', component: CreateEspecieComponent }, 
-  { path: 'read-especie', component: ReadEspecieComponent } ,
-  { path: 'update-especie', component: UpdateEspecieComponent } ,
+  { path: 'read-especie/:id', component: ReadEspecieComponent } ,
+  { path: 'update-especie/:id', component: UpdateEspecieComponent } ,
   { path: 'delete-especie', component: DeleteEspecieComponent } ,
  ]; 
  

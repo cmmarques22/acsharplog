@@ -9,9 +9,9 @@
             <form>
               <div class="form-group">
                 <label for="idEspecie">ID da Especie:</label>
-                <input type="number" class="form-control" id="idEspecie" [(ngModel)]="idEspecie" name="idEspecie">
+                <input type="number" class="form-control" id="idEspecie" [(ngModel)]="especie.idEspecie" name="idEspecie">
               </div>
-              <button type="button" class="btn btn-primary" (click)="getEspecieById()">Pesquisar</button>
+              <button type="button" class="btn btn-primary" (click)="showDetail()">Pesquisar</button>
               <hr>
   
               <div *ngIf="showEspecieDetails">

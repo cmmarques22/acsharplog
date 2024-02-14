@@ -15,7 +15,7 @@ const routes: Routes = [{ path: '', component: TipoOcorrenciasComponent },
 { path: '', component: TipoOcorrenciasComponent },
 { path: 'list-tipo-ocorrencias', component: ListTipoOcorrenciasComponent },
 { path: 'create-tipo-ocorrencia', component: CreateTipoOcorrenciaComponent },
-{ path: 'read-tipo-ocorrencia', component: ReadTipoOcorrenciaComponent },
+{ path: 'read-tipo-ocorrencia/:id', component: ReadTipoOcorrenciaComponent },
 { path: 'update-tipo-ocorrencia/:id', component: UpdateTipoOcorrenciaComponent },
 { path: 'delete-tipo-ocorrencia/:id', component: DeleteTipoOcorrenciaComponent }
 

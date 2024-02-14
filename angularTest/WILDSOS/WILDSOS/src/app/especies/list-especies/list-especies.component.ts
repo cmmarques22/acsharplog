@@ -11,7 +11,6 @@ import { Observable } from 'rxjs';
 export class ListEspeciesComponent implements OnInit {
 
   especiesList: Especie[] = [];
-  // especie?: Especie = undefined;
   especie: any = {
     idEspecie: 1,
     especie1: 'Ave',
@@ -40,15 +39,3 @@ export class ListEspeciesComponent implements OnInit {
 
 
 
-// ngOnInit(): void {
-  //  this.service.getAll().then((data: Observable<Especie[]>) => {
-  //   //o then recebe um retorn subscribe para tirar a lista de especies por causa da promise
-  //   // so é preciso fazer o subscribe
-  //   data.subscribe(list => {
-  //     console.log(list);
-  //     this.especiesList = list;
-  //   });
-  //  }).catch(error => {
-  //   console.log(error);
-  //  });
-  // }

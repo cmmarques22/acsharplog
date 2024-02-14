@@ -12,10 +12,20 @@
                 <input type="number" class="form-control" id="idTipoOcorrencia" [(ngModel)]="novoTPO.idTipoOcorrencia" name="id" inputmode="numeric" on-input="getById()">
               </div> -->
               <div class="form-group">
-                <label for="descricao"> tipo-ocorrencia:</label>
-                <input type="text" class="form-control" id="descricao" [(ngModel)]="novoTO.descricao" name="descricao">
+
+                <label for="inputName">Selecione uma opção&#x25BC;</label>
+                <select class="custom-select form-control input-dropdown" id="descricao" name="Descricao" placeholder="Selecione uma opção" [(ngModel)]="novoTO.descricao">
+                  <option value="Desastre Natural">Desastre Natural</option>
+              <option value="Derrocada">Derrocada</option>
+              <option value="Queda Árvore">Queda Árvore</option>
+              <option value="Contaminação">Contaminação</option>
+              <option value="Derrame">Derrame</option>
+              <option value="Descarga">Descarga</option>
+              <option value="Incêndio">Incêndio</option>
+                </select>
               </div>
-              <button type="submit" class="btn btn-primary" (click)="atualizarTPO()">Atualizar</button>            </form>
+              <button type="submit" class="btn btn-primary" (click)="atualizarTPO()">Atualizar</button>            
+            </form>
           </div>
         </div>
       </div>

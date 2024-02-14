@@ -8,7 +8,7 @@ import { TipoOcorrencia } from './tipo-ocorrencia';
   providedIn: 'root'
 })
 export class TipoOcorrenciaService {
-  // [x: string]: any;
+
   apiUrl: string = "";
 
   constructor(private httpClient: HttpClient) {
@@ -48,7 +48,7 @@ export class TipoOcorrenciaService {
     return this.httpClient.delete<TipoOcorrencia>(this.apiUrl + "/" + id);//return obs
 
   }
-  getById(id:string): Observable<TipoOcorrencia> {
+  getTOById(id:string): Observable<TipoOcorrencia> {
     return this.httpClient.get<TipoOcorrencia>(this.apiUrl + "/" + id);//return obs
    
 }}

@@ -9,17 +9,15 @@ import { EspecieService  } from '../especie.service';
   templateUrl: './update-especie.component.html',
   styleUrl: './update-especie.component.css'
 })
-export class UpdateEspecieComponent {
+export class UpdateEspecieComponent  implements OnInit{
 
 
   novaEspecie: Especie;
-  // novoTPO: { descricao: string; };
-  // tipoOcorrencia: TipoOcorrencia;
   id: any;
-  // tipoOcorrencia: number;
-  // constructor(private route: ActivatedRoute,private service: TipoOcorrenciaService) {}
     constructor(private service: EspecieService, private route: ActivatedRoute,private router: Router ) {
-      this.novaEspecie = {classe: '', especie1: ''};
+      this.novaEspecie = {
+        classe: '',
+         especie1: ''};
     };
   
   ngOnInit(): void {

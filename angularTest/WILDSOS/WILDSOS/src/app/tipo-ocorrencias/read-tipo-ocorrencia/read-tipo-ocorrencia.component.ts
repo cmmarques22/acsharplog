@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { TipoOcorrenciaService } from '../tipo-ocorrencia.service';
 import { TipoOcorrencia } from '../tipo-ocorrencia';
 import { ActivatedRoute, Router } from '@angular/router';
@@ -8,11 +8,12 @@ import { ActivatedRoute, Router } from '@angular/router';
   templateUrl: './read-tipo-ocorrencia.component.html',
   styleUrls: ['./read-tipo-ocorrencia.component.css']
 })
-export class ReadTipoOcorrenciaComponent {
+export class ReadTipoOcorrenciaComponent implements OnInit{
 
+  id: any;
   idTipoOcorrencia: number | undefined;
   tipoOcorrencia: TipoOcorrencia;
-  showDetails: boolean = false;
+  showTODetails: boolean = false;
 
   constructor(private service: TipoOcorrenciaService, private route: ActivatedRoute, private router: Router) {
     this.tipoOcorrencia = {
@@ -20,23 +21,32 @@ export class ReadTipoOcorrenciaComponent {
       descricao: ''
     };
   }
+  ngOnInit(): void {
+    const idStringTO= this.route.snapshot.paramMap.get('id');
+    console.log(idStringTO);
+    this.id = idStringTO !== null ? parseInt(idStringTO) : 0;
+    this.getTOById(); 
+    // Automatically fetch details on component initialization
+  }
 
-  getById() {
+  getTOById() {
     try {
-      if (this.idTipoOcorrencia !== undefined) {
-        // Convert idTipoOcorrencia to string
-        const idString = this.idTipoOcorrencia.toString();
-        
+      if (this.id !== undefined) {
         // Assuming you have a service method named 'getById'
-        this.service.getById(idString).subscribe((data: TipoOcorrencia) => {
+        this.service.getTOById(this.id).subscribe((data: TipoOcorrencia) => {
           console.log(data);
           this.tipoOcorrencia = data;
-          this.showDetails = true; // Show details after successful retrieval
         });
+
+        
       }
     } catch (error) {
       alert(error);
     }
+  }
+
+  showDetailTO() {
+    this.showTODetails = !this.showTODetails;
   }
   
   goBack() {
