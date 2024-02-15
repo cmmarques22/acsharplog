@@ -1,9 +1,12 @@
 
- <section>
+ <section style="padding-top: 100px;">
+   <p>Numero de especies: {{counter}}</p>
+   <button class="btn btn-primary" (click)="toggleView()">{{ changeView ? '  Modo PobreSOS' : 'Modo WildSOS' }}</button>
     <div class="container">
         <div class="row">
           <div class="col-md-8 offset-md-2 text-center">
-            <h1 class="">Listas de Especies</h1>
+           
+             <h1 class="">Listas de Especies</h1>
           </div>
           <div class="col-md-2 text-left">
             <button type="button" class="btn btn-outline-danger btn-lg" id="create" #create (click)="openEspecieComponent(create)">Criar Especie</button>
@@ -20,15 +23,15 @@
         </div>
       </div>
       
-    <div class="container px-4 px-lg-5">
+    <div *ngIf="changeView" class="container px-4 px-lg-5">
         <div class="row gx-4 gx-lg-5">
             <div class="col-md-12 mb-3" *ngFor="let esp of especiesList" id="listEsp" class="tipo-row-content">
-                <!-- Clickable row -->
                 <a [routerLink]="['/read-especie', esp.idEspecie]" class="text-decoration-none">
                     <div class="row">
-                        <!-- Left side with image, ID, and Descricao -->
+
+
                         <div class="col-md-2 align-items-center">
-                            <img class="img-fluid" [src]="getImageSource(esp.especie1)" alt="{{esp.idEspecie}}" />
+                            <img class="img-fluid" [src]="getImageSource(esp.especie1)"  alt="{{esp.idEspecie}}" />
                         </div>
                         <div class="col-md-2 d-flex justify-content-center align-items-center">
                             <div class="text-center">
@@ -39,22 +42,23 @@
                             </div>
                         </div>
 
-                        <!-- Right side with buttons -->
                         <div class="col-md-8 d-flex justify-content-center align-items-center tipo-icons-container ">
-                                                        <!-- Read Button -->
+                                                       
                             <div class="tipo-icons justify-content-center">
                                 <a [routerLink]="['/read-especie', esp.idEspecie]" routerLinkActive="active" class="btn btn-outline-dark mt-auto">
                                     <img src="/assets/images/read.png" alt="Read Icon" class="img-fluid icon-image update-icon" style="width: 75px; height: 75px; margin: auto;" />
                                 </a>
                             </div>
-                            <!-- Update Button -->
+
+
                             <div class="tipo-icons justify-content-center">
                                 <a [routerLink]="['/update-especie', esp.idEspecie]" class="btn btn-outline-dark mt-auto">
                                     <img src="/assets/images/update.png" alt="Update Icon" class="img-fluid icon-image update-icon" style="width: 75px; height: 75px; margin: auto;" />
                                 </a>
                             </div>
                             
-                            <!-- Delete Button -->
+
+
                             <div class="tipo-icons justify-content-end">
                                 <a [routerLink]="['/delete-especie', esp.idEspecie]" class="btn btn-outline-dark mt-auto">
                                     <img src="/assets/images/delete.png" alt="Delete Icon" class="img-fluid icon-image" style="width: 75px; height: 75px; margin: auto;" />
@@ -67,6 +71,34 @@
         </div>
     </div>
 
+
+
+  
+        <table *ngIf="!changeView" class="container d-flex align-items-center justify-content-center">
+          <thead>
+            <tr>
+              <th>ID</th>
+              <th>Especie</th>
+              <th>Class</th>
+              <th>Actions</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let esp of especiesList" id="listTPO">
+              <td>{{esp.idEspecie}}</td>
+              <td>{{esp.especie1}}</td>
+              <td>{{esp.classe}}</td>
+              <td>
+                <a [routerLink]="['/read-especie', esp.idEspecie]"><p>Read</p></a>
+                <a [routerLink]="['/update-especie', esp.idEspecie]"><p>Update</p></a>
+                <a [routerLink]="['/delete-especie', esp.idEspecie]"><p>Delete</p></a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      
+      
+</section>
 <!-- 
  <div class="row">
      <div class=" col-sm-12 col-md-3 bg-warning text-dark p-5 mb-3 ">

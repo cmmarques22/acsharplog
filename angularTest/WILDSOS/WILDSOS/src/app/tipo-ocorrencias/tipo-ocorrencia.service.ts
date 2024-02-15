@@ -50,5 +50,7 @@ export class TipoOcorrenciaService {
   }
   getTOById(id:string): Observable<TipoOcorrencia> {
     return this.httpClient.get<TipoOcorrencia>(this.apiUrl + "/" + id);//return obs
-   
-}}
+  }
+
+    
+}

@@ -56,8 +56,8 @@ async create(especieBody: any): Promise<Observable<Especie>> {
   getEspecieById(id:string): Observable<Especie> {
     return this.httpClient.get<Especie>(this.apiUrl + "/" + id);//return obs
   }
-//   getCountOcorrencias(): Observable<Ocorrencia> {
-//       return this.httpClient.get<Ocorrencia>(this.apiUrl + "/" + "CountOcorrencias");
+  getCountEspecie(): Observable<number> {
+      return this.httpClient.get<number>(this.apiUrl + "/" + "CountEspecies");
 
-// }
+}
 }

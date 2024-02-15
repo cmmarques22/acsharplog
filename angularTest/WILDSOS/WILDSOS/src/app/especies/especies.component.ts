@@ -9,9 +9,12 @@ import { Observable } from 'rxjs';
   templateUrl: './especies.component.html',
   styleUrl: './especies.component.css'
 })
-export class EspeciesComponent {
+export class EspeciesComponent implements OnInit{
+
   currentEspecieComponent: string = 'none';
 
+
+  //logica para abrir o create
   openEspecieComponent(hyperLink: any) {
   
   
@@ -28,6 +31,8 @@ export class EspeciesComponent {
     
     especiesList: Especie[] = [];
     especie?: Especie = undefined;
+    counter: number | undefined;
+    changeView: boolean = true;
     constructor(private service: EspecieService) {
     }
   
@@ -42,8 +47,20 @@ export class EspeciesComponent {
         }).catch((error: any) => {
          console.log(error);
         });
+
+        //mais facil criar metodo fora e chamar aqui  
+        this.service.getCountEspecie().subscribe( (counterEspecies: number) => {
+          console.log(counterEspecies);
+          this.counter = counterEspecies;
+        });
        }
-  
+       
+       
        getImageSource(especie1: string): string {
         return '/assets/images/' + especie1 + '.png';  }
+
+        toggleView() {
+          this.changeView = !this.changeView;
+          }
+
 };

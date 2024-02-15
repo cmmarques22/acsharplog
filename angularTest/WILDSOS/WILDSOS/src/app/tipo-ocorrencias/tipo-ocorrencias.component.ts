@@ -27,6 +27,8 @@ openComponent(hyperLink: any) {
      }
       }}
   
+
+  counter: number | undefined;
     tipoOcorrenciaList: TipoOcorrencia[] = [];
   tipoOcorrencia?: TipoOcorrencia = undefined;
   constructor(private service: TipoOcorrenciaService) {
@@ -43,7 +45,10 @@ openComponent(hyperLink: any) {
       }).catch((error: any) => {
        console.log(error);
       });
+    
      }
+      
+
 
      getImageSource(descricao: string): string {
       // Assuming your image files are named like 'Desastre Natural.jpg', 'Derrocada.jpg', etc.

@@ -13,7 +13,7 @@ import { HttpHeaders } from '@angular/common/http';
 export class CreateTipoOcorrenciaComponent {
   tipoOcorrencia: TipoOcorrencia;
   createForm: FormGroup;
-
+//passar component current
   constructor(private service: TipoOcorrenciaService, private formBuilder: FormBuilder) {
     this.createForm = this.formBuilder.group({
       idTipoOcorrencia: ['', [Validators.required]],
@@ -33,7 +33,6 @@ export class CreateTipoOcorrenciaComponent {
         alert("Tipo de Ocorrencia criado");
         console.log(data, "1")
         location.reload();
-                
       })
     }).then(() => {
       this.createForm.reset();

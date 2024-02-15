@@ -1,4 +1,4 @@
-<section>
+<section style="padding-top: 100px;">
     <div class="container">
         <div class="row">
           <div class="col-md-8 offset-md-2 text-center">
@@ -19,13 +19,11 @@
         </div>
       </div>
       
-    <div class="container px-4 px-lg-5">
+     <div class="container px-4 px-lg-5">
         <div class="row gx-4 gx-lg-5">
             <div class="col-md-12 mb-3" *ngFor="let tpo of tipoOcorrenciaList" id="listTPO" class="tipo-row-content">
-                <!-- Clickable row -->
                 <a [routerLink]="['/read-tipo-ocorrencia', tpo.idTipoOcorrencia]" class="text-decoration-none">
                     <div class="row">
-                        <!-- Left side with image, ID, and Descricao -->
                         <div class="col-md-2 align-items-center">
                             <img class="img-fluid" [src]="getImageSource(tpo.descricao)" alt="{{tpo.descricao}}" />
                         </div>
@@ -36,22 +34,19 @@
                             </div>
                         </div>
 
-                        <!-- Right side with buttons -->
                         <div class="col-md-8 d-flex justify-content-center align-items-center tipo-icons-container ">
-                                                        <!-- Read Button -->
+                                                      
                             <div class="tipo-icons justify-content-center">
                                 <a [routerLink]="['/read-tipo-ocorrencia', tpo.idTipoOcorrencia]" class="btn btn-outline-dark mt-auto">
                                     <img src="/assets/images/read.png" alt="Read Icon" class="img-fluid icon-image update-icon" style="width: 75px; height: 75px; margin: auto;" />
                                 </a>
                             </div>
-                            <!-- Update Button -->
                             <div class="tipo-icons justify-content-center">
                                 <a [routerLink]="['/update-tipo-ocorrencia', tpo.idTipoOcorrencia]" class="btn btn-outline-dark mt-auto">
                                     <img src="/assets/images/update.png" alt="Update Icon" class="img-fluid icon-image update-icon" style="width: 75px; height: 75px; margin: auto;" />
                                 </a>
                             </div>
                             
-                            <!-- Delete Button -->
                             <div class="tipo-icons justify-content-end">
                                 <a [routerLink]="['/delete-tipo-ocorrencia', tpo.idTipoOcorrencia]" class="btn btn-outline-dark mt-auto">
                                     <img src="/assets/images/delete.png" alt="Delete Icon" class="img-fluid icon-image" style="width: 75px; height: 75px; margin: auto;" />
@@ -63,3 +58,6 @@
             </div>
         </div>
     </div>
+    
+      
+</section>
