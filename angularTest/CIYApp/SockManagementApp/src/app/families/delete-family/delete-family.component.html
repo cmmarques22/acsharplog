@@ -1,0 +1,23 @@
+<section>
+    <h1>Delete Family</h1>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="card mt-5">
+                    <div class="card-body">
+                        <h5 class="card-title">Delete Family</h5>
+                        <form (submit)="deleteFamily()">
+                            <div class="form-group">
+                                <label for="inputFamilyId">Family ID</label>
+                                <input type="text" class="form-control" id="inputFamilyId" placeholder="Enter Family ID" name="familyId" [(ngModel)]="familyIdToDelete" required>
+                            </div>
+                            <button type="submit" class="btn btn-danger">Delete</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- vazio antes -->

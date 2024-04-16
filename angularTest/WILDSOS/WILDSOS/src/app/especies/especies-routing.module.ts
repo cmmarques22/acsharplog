@@ -13,7 +13,7 @@ const routes: Routes = [
   { path: 'create-especie', component: CreateEspecieComponent }, 
   { path: 'read-especie/:id', component: ReadEspecieComponent } ,
   { path: 'update-especie/:id', component: UpdateEspecieComponent } ,
-  { path: 'delete-especie', component: DeleteEspecieComponent } ,
+  { path: 'delete-especie/:id', component: DeleteEspecieComponent } ,
  ]; 
  
 

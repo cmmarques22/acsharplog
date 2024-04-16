@@ -1,0 +1,101 @@
+ID_Venda,Data,ID_Produto,Categoria,Quantidade,Preço_Unitário,Cidade,ID_Cliente,ID_Vendedor
+1,2024-01-01,157,Alimentos,2,61,Belo Horizonte,8,11
+2,2024-01-02,112,Vestuário,2,455,Curitiba,35,8
+3,2024-01-03,240,Vestuário,1,115,Belo Horizonte,15,13
+4,2024-01-04,225,Eletrônicos,3,55,São Paulo,42,1
+5,2024-01-05,214,Eletrônicos,1,324,São Paulo,10,4
+6,2024-01-06,171,Alimentos,5,54,Curitiba,18,5
+7,2024-01-07,152,Vestuário,5,365,Belo Horizonte,10,9
+8,2024-01-08,379,Eletrônicos,2,461,São Paulo,5,3
+9,2024-01-09,144,Eletrônicos,5,140,São Paulo,4,15
+10,2024-01-10,316,Eletrônicos,2,226,Belo Horizonte,11,5
+11,2024-01-11,116,Eletrônicos,1,81,Rio de Janeiro,20,8
+12,2024-01-12,115,Alimentos,1,475,Belo Horizonte,39,15
+13,2024-01-13,147,Eletrônicos,1,311,Rio de Janeiro,48,12
+14,2024-01-14,211,Alimentos,2,146,Curitiba,37,8
+15,2024-01-15,219,Vestuário,1,316,Curitiba,19,2
+16,2024-01-16,358,Alimentos,1,324,São Paulo,29,1
+17,2024-01-17,113,Eletrônicos,3,40,São Paulo,8,11
+18,2024-01-18,387,Vestuário,1,337,São Paulo,30,10
+19,2024-01-19,201,Vestuário,5,61,Rio de Janeiro,45,13
+20,2024-01-20,379,Alimentos,2,234,São Paulo,20,4
+21,2024-01-21,314,Vestuário,3,356,Belo Horizonte,45,12
+22,2024-01-22,212,Alimentos,4,318,Rio de Janeiro,26,3
+23,2024-01-23,329,Vestuário,2,309,Curitiba,18,5
+24,2024-01-24,242,Alimentos,5,287,Rio de Janeiro,33,9
+25,2024-01-25,103,Eletrônicos,2,181,São Paulo,35,1
+26,2024-01-26,181,Alimentos,5,498,Belo Horizonte,32,9
+27,2024-01-27,316,Alimentos,5,153,Belo Horizonte,29,7
+28,2024-01-28,274,Eletrônicos,4,124,São Paulo,6,2
+29,2024-01-29,242,Alimentos,2,362,Belo Horizonte,39,4
+30,2024-01-30,179,Alimentos,4,386,Rio de Janeiro,3,14
+31,2024-01-31,210,Vestuário,4,180,Rio de Janeiro,28,15
+32,2024-02-01,272,Alimentos,2,142,São Paulo,48,2
+33,2024-02-02,152,Vestuário,1,155,Belo Horizonte,21,8
+34,2024-02-03,147,Eletrônicos,1,222,Curitiba,39,2
+35,2024-02-04,294,Vestuário,4,87,Rio de Janeiro,17,11
+36,2024-02-05,149,Vestuário,3,363,Rio de Janeiro,2,14
+37,2024-02-06,283,Eletrônicos,4,350,Rio de Janeiro,6,3
+38,2024-02-07,276,Vestuário,4,173,Rio de Janeiro,15,8
+39,2024-02-08,235,Eletrônicos,4,254,Curitiba,44,15
+40,2024-02-09,122,Alimentos,1,181,São Paulo,37,12
+41,2024-02-10,335,Alimentos,1,495,Rio de Janeiro,38,5
+42,2024-02-11,374,Vestuário,1,404,Belo Horizonte,2,9
+43,2024-02-12,163,Alimentos,4,499,Curitiba,49,12
+44,2024-02-13,293,Eletrônicos,3,57,Rio de Janeiro,44,5
+45,2024-02-14,140,Alimentos,1,24,Belo Horizonte,18,7
+46,2024-02-15,382,Eletrônicos,2,254,Rio de Janeiro,37,14
+47,2024-02-16,250,Alimentos,2,338,São Paulo,3,8
+48,2024-02-17,285,Vestuário,2,308,Curitiba,49,8
+49,2024-02-18,395,Alimentos,5,71,São Paulo,49,4
+50,2024-02-19,198,Alimentos,4,57,Curitiba,12,8
+51,2024-02-20,135,Alimentos,2,295,Rio de Janeiro,31,9
+52,2024-02-21,123,Eletrônicos,4,129,Rio de Janeiro,34,3
+53,2024-02-22,216,Eletrônicos,2,279,Curitiba,42,7
+54,2024-02-23,248,Vestuário,3,155,Belo Horizonte,29,4
+55,2024-02-24,140,Eletrônicos,4,87,Belo Horizonte,18,15
+56,2024-02-25,219,Alimentos,2,497,Rio de Janeiro,12,10
+57,2024-02-26,151,Alimentos,1,198,Rio de Janeiro,38,9
+58,2024-02-27,294,Eletrônicos,4,471,São Paulo,28,12
+59,2024-02-28,242,Alimentos,5,55,Rio de Janeiro,41,15
+60,2024-02-29,332,Vestuário,1,470,Curitiba,32,3
+61,2024-03-01,286,Vestuário,1,145,Belo Horizonte,6,14
+62,2024-03-02,183,Eletrônicos,5,209,Belo Horizonte,31,2
+63,2024-03-03,289,Eletrônicos,1,165,São Paulo,23,5
+64,2024-03-04,281,Vestuário,1,100,Belo Horizonte,27,13
+65,2024-03-05,207,Vestuário,2,244,Belo Horizonte,22,13
+66,2024-03-06,236,Eletrônicos,2,446,Curitiba,21,14
+67,2024-03-07,136,Eletrônicos,4,298,Belo Horizonte,43,7
+68,2024-03-08,187,Eletrônicos,4,380,São Paulo,7,6
+69,2024-03-09,373,Alimentos,4,174,São Paulo,11,15
+70,2024-03-10,225,Eletrônicos,2,333,Belo Horizonte,22,13
+71,2024-03-11,183,Eletrônicos,4,433,Rio de Janeiro,27,9
+72,2024-03-12,336,Alimentos,1,354,Belo Horizonte,45,5
+73,2024-03-13,294,Vestuário,2,290,São Paulo,32,14
+74,2024-03-14,238,Eletrônicos,4,24,São Paulo,19,1
+75,2024-03-15,385,Alimentos,1,361,Curitiba,43,5
+76,2024-03-16,212,Eletrônicos,4,438,Belo Horizonte,26,12
+77,2024-03-17,266,Eletrônicos,3,303,Belo Horizonte,49,5
+78,2024-03-18,128,Alimentos,4,173,Curitiba,36,14
+79,2024-03-19,217,Vestuário,3,497,São Paulo,3,10
+80,2024-03-20,116,Alimentos,4,359,Curitiba,30,10
+81,2024-03-21,261,Eletrônicos,5,73,Rio de Janeiro,6,11
+82,2024-03-22,305,Vestuário,4,500,Belo Horizonte,21,8
+83,2024-03-23,237,Alimentos,2,469,São Paulo,17,14
+84,2024-03-24,133,Alimentos,2,88,Curitiba,21,3
+85,2024-03-25,208,Vestuário,3,155,São Paulo,8,8
+86,2024-03-26,390,Eletrônicos,2,79,Rio de Janeiro,50,9
+87,2024-03-27,261,Alimentos,1,475,Belo Horizonte,26,8
+88,2024-03-28,208,Alimentos,5,74,Curitiba,33,6
+89,2024-03-29,355,Alimentos,5,400,São Paulo,1,6
+90,2024-03-30,302,Eletrônicos,1,303,Belo Horizonte,43,9
+91,2024-03-31,334,Alimentos,3,99,Belo Horizonte,35,13
+92,2024-04-01,173,Vestuário,1,159,São Paulo,30,9
+93,2024-04-02,235,Vestuário,1,164,Belo Horizonte,27,7
+94,2024-04-03,171,Alimentos,5,329,Belo Horizonte,4,8
+95,2024-04-04,226,Alimentos,4,127,Curitiba,13,15
+96,2024-04-05,387,Vestuário,5,387,Belo Horizonte,34,6
+97,2024-04-06,375,Vestuário,5,195,Curitiba,24,14
+98,2024-04-07,234,Alimentos,2,124,Belo Horizonte,40,4
+99,2024-04-08,399,Vestuário,1,371,Rio de Janeiro,49,12
+100,2024-04-09,319,Eletrônicos,5,344,Rio de Janeiro,32,4

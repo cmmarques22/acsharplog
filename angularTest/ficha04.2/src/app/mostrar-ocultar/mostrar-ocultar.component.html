@@ -1,0 +1,8 @@
+
+<div *ngIf="mostrarConteudo; else ocultarConteudo">
+  <button (click)="alteraConteudo()">Este é o conteúdo exibido</button>
+</div>
+
+<ng-template #ocultarConteudo>
+  <button (click)="alteraConteudo()">Conteúdo Oculto</button>
+</ng-template>

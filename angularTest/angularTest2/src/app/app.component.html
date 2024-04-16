@@ -1,0 +1,112 @@
+<nav>
+  <ul>
+    <li> <a routerLink="/products" routerLinkActive="active">Produtos</a></li>
+    <li> <a [routerLink]="['/customers', 1]" routerLinkActive="active">Customers</a></li>
+    <li> <a routerLink="#" routerLinkActive="active">Contact</a></li>
+  </ul>
+</nav>
+<router-outlet></router-outlet>
+
+
+<button class="btn btn-primary">OK</button>
+<h1>{{ Batata }}</h1>
+<h2>{{ Cenoura }}</h2>
+
+<input
+  #studentNameInput
+  type="text"
+  [value]="studentName"
+  (input)="setStudentName(studentNameInput.value)"
+/>
+<p>{{ studentName }}</p>
+<p [class]="myCSSClass">class comes from 'red' property</p>
+
+<p [class.blue]="applyCSSClass">
+  class does not apply if applyCSSClass is false
+</p>
+
+<p [style.color]="fontCSSColor">this class comes from fontCSSColor property</p>
+
+<h1>{{ moduleName }}</h1>
+<h2>Envent Binding</h2>
+<button (click)="showData($event)">click here</button>
+<button on-click="showData($event)">click here</button>
+
+<div *ngIf="true">Display data</div>
+<p>ngIfElse example!</p>
+<div *ngIf="isLogIn; else isLogOut">
+  Hello
+  {{ studentName }}, 
+  you are logged in!
+</div>
+<ng-template #isLogOut>You are logged out!</ng-template>
+
+<div>
+  <h2>Types of Drugs</h2>
+  <ul>
+    <li *ngFor="let droga of Drogas">
+      {{ droga.name }}, {{ droga.price }}€/kg
+    </li>
+  </ul>
+</div>
+
+<h2>ngFor directive</h2>
+<ul>
+  <li *ngFor="let legume of Legumes">
+    {{legume}}</li>
+</ul>
+<h2>ngSwitch</h2>
+<ul [ngSwitch]="logInName">
+  <li *ngSwitchCase="'user'">
+    <p>User is logged in</p>
+  </li>
+  <li *ngSwitchCase="'admin'">
+    <p>Admin is logged in</p>
+  </li>
+  <li *ngSwitchDefault>
+    <p>Please choose</p>
+  </li>
+</ul>
+
+<div>
+  Today:- {{presentDate}} <br>
+  Today but twist1:- {{presentDate | date}} <br>
+  today shortdate:- {{presentDate | date:'shortDate'}} <br>
+  full date:- {{presentDate | date:'fullDate'}} <br>
+  Formatted date:- {{presentDate | date:'dd/mm/yyyy'}} <br>
+  Hours and minutes :— {{presentDate | date: 'h:mm'}}
+
+
+</div>
+<div>
+  <h3>
+    Currency pipe
+  </h3>
+  <p>{{price | currency:'EUR'}}</p>
+  <p>{{price | currency:'usd'}}</p>
+
+  <p>{{price | currency:'brl'}}</p>
+
+</div>
+
+<form #username="ngForm" (ngSubmit)="onClickSubmit(username.value)">
+<input type="text" name="username" placeholder="username" ngModel>
+<br>
+<br>
+<input type="submit" value="submit">
+</form>
+
+<form (submit)="onSubmit()">
+<div>
+  <label for="name">Name:</label>
+  <input type="text" id="name" name="name" [(ngModel)]="formData.name">
+</div>
+<div>
+  <label for="email">Email:</label>
+  <input type="text" id="email" name="email" [(ngModel)]="formData.email">
+  <button type="submit">Submit</button>
+</div>
+
+
+
+</form>

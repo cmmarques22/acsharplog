@@ -74,7 +74,7 @@
 
 
   
-        <table *ngIf="!changeView" class="container d-flex align-items-center justify-content-center">
+        <table *ngIf="!changeView" class="container  align-items-center justify-content-center">
           <thead>
             <tr>
               <th>ID</th>
@@ -85,7 +85,7 @@
           </thead>
           <tbody>
             <tr *ngFor="let esp of especiesList" id="listTPO">
-              <td>{{esp.idEspecie}}</td>
+              <td >{{esp.idEspecie}}</td>
               <td>{{esp.especie1}}</td>
               <td>{{esp.classe}}</td>
               <td>

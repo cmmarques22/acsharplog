@@ -17,7 +17,7 @@ export class DeleteEspecieComponent implements OnInit {
   ) {}
 
   ngOnInit(): void {
-    const idString = this.route.snapshot.paramMap.get('idEspecie');
+    const idString = this.route.snapshot.paramMap.get('id');
     this.id = idString !== null ? parseInt(idString) : 0;
     console.log(this.id);
   }

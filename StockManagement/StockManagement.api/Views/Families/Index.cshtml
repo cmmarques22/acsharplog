@@ -1,0 +1,59 @@
+﻿@model IEnumerable<StockManagement.api.Models.Family>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FamilyName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.InsertUserId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.InsertDateTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LastModifiedUserId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LastModifiedDateTime)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FamilyName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.InsertUserId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.InsertDateTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastModifiedUserId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastModifiedDateTime)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.FamilyId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.FamilyId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.FamilyId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
